@@ -1,0 +1,125 @@
+2017-03-24 15:42:47  [ main:0 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\iyb出单(3).xlsx用例集开关 未包含 高端医疗出单
+2017-03-24 15:42:47  [ pool-1-thread-1:1 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-24 15:42:47  [ pool-1-thread-2:8 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\iyb出单(3).xlsx用例集开关 未包含 高端医疗出单
+2017-03-24 15:42:47  [ pool-1-thread-2:10 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-24 15:42:47  [ pool-1-thread-4:9 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-24 15:42:47  [ pool-1-thread-3:8 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-24 15:42:47  [ pool-1-thread-4:15 ] - [ INFO ]  ---------当前用例执行开始，用例编号:iyb-001,接口类型: HTTP
+2017-03-24 15:42:47  [ pool-1-thread-4:22 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+{
+  "applicant": [
+    {
+      "applicantCertType": "I",
+      "applicantName": "测试投保人",
+      "applicantCertNo": "@RIdWithBirthday(RDate("YYYYMMdd","-25/0/0"),"1")",
+      "applicantBirthday": "@RDate("YYYY-MM-dd","-25/0/0")",
+      "applicantGender": "M",
+      "applicantEmail": "1607217918@qq.com"
+    }
+  ],
+  "insured": [
+    {
+      "isOpen": "open",
+      "ensurePlan": "$GetExcelData("assortmentId")",
+      "amount": "0",
+      "insurantCertType": "I",
+      "insurance": "Y",
+      "relation": "2",
+      "insurantName": "测试配偶",
+      "insurantCertNo": "$GetExcelData("insurantCertNo")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantGender": "F"
+    }
+  ],
+  "insurance": [
+    {
+      "productName": "$GetExcelData("productName")",
+      "expires": "1年",
+      "effectiveDate": "@RDate("YYYY-MM-dd","0")",
+      "expiryDate": "@RDate("YYYY-MM-dd","1/0/-1")",
+      "person": "法定",
+      "quantity": 1
+    }
+  ],
+  "communication": [
+    {
+      "applicantMobile": "15618757067",
+      "smsCode": "888888"
+    }
+  ],
+  "assortmentId": "$GetExcelData("assortmentId")",
+  "productId": "$GetExcelData("productId")",
+  "accountId": "$GetExcelData("accountId")",
+  "coupon": ""
+}
+2017-03-24 15:42:47  [ pool-1-thread-4:132 ] - [ INFO ]  表达式: [GetExcelData("assortmentId")]开始解析...
+2017-03-24 15:42:47  [ pool-1-thread-4:133 ] - [ INFO ]  表达式: [GetExcelData("insurantCertNo")]开始解析...
+2017-03-24 15:42:47  [ pool-1-thread-4:133 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-24 15:42:47  [ pool-1-thread-4:133 ] - [ INFO ]  表达式: [GetExcelData("productName")]开始解析...
+2017-03-24 15:42:47  [ pool-1-thread-4:134 ] - [ INFO ]  表达式: [GetExcelData("assortmentId")]开始解析...
+2017-03-24 15:42:47  [ pool-1-thread-4:134 ] - [ INFO ]  表达式: [GetExcelData("productId")]开始解析...
+2017-03-24 15:42:47  [ pool-1-thread-4:135 ] - [ INFO ]  表达式: [GetExcelData("accountId")]开始解析...
+2017-03-24 15:42:47  [ pool-1-thread-4:136 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("YYYYMMdd","-25/0/0"),"1")]开始解析...
+2017-03-24 15:42:48  [ pool-1-thread-4:215 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","-25/0/0")]开始解析...
+2017-03-24 15:42:48  [ pool-1-thread-4:217 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","-24/0/0")]开始解析...
+2017-03-24 15:42:48  [ pool-1-thread-4:219 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","0")]开始解析...
+2017-03-24 15:42:48  [ pool-1-thread-4:221 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","1/0/-1")]开始解析...
+2017-03-24 15:42:48  [ pool-1-thread-4:223 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("YYYYMMdd","-24/0/0"),"2")]开始解析...
+2017-03-24 15:42:48  [ pool-1-thread-4:229 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+{
+  "applicant": [
+    {
+      "applicantCertType": "I",
+      "applicantName": "测试投保人",
+      "applicantCertNo": "130527199203244951",
+      "applicantBirthday": "1992-03-24",
+      "applicantGender": "M",
+      "applicantEmail": "1607217918@qq.com"
+    }
+  ],
+  "insured": [
+    {
+      "isOpen": "open",
+      "ensurePlan": "51252513",
+      "amount": "0",
+      "insurantCertType": "I",
+      "insurance": "Y",
+      "relation": "2",
+      "insurantName": "测试配偶",
+      "insurantCertNo": "421202199303244920",
+      "insurantBirthday": "1993-03-24",
+      "insurantGender": "F"
+    }
+  ],
+  "insurance": [
+    {
+      "productName": "尊享e生医疗保险",
+      "expires": "1年",
+      "effectiveDate": "2017-03-24",
+      "expiryDate": "2018-03-23",
+      "person": "法定",
+      "quantity": 1
+    }
+  ],
+  "communication": [
+    {
+      "applicantMobile": "15618757067",
+      "smsCode": "888888"
+    }
+  ],
+  "assortmentId": "51252513",
+  "productId": "1000173",
+  "accountId": "50002490005",
+  "coupon": ""
+}
+2017-03-24 15:42:48  [ pool-1-thread-4:234 ] - [ INFO ]  接口访问地址: http://test.iyunbao.com/open/qrcode/normalPolicyAjax/normalAppPolicyInter.json
+2017-03-24 15:42:53  [ pool-1-thread-4:5594 ] - [ INFO ]  bizcontent: {"message":"系统繁忙,请稍后重试","result":{"isDoubleElevenActivityStart":false,"premium":0},"code":"20007"}
+2017-03-24 15:42:53  [ pool-1-thread-4:5610 ] - [ INFO ]  表达式: [HttpGet(ResponseDepend("iyb-001","returnUrl"),"utf-8")]开始解析...
+2017-03-24 15:42:53  [ pool-1-thread-4:5721 ] - [ INFO ]  HttpGet(ResponseDepend("D:\workspace\TestCase\测试\iyb出单(3).xlsx#尊享e生出单#iyb-001","returnUrl"),"utf-8")解析数据失败，解析下一关键字
+2017-03-24 15:42:53  [ pool-1-thread-4:5723 ] - [ ERROR ]  表达式: HttpGet(ResponseDepend("D:\workspace\TestCase\测试\iyb出单(3).xlsx#尊享e生出单#iyb-001","returnUrl"),"utf-8") 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-24 15:42:53  [ pool-1-thread-4:5724 ] - [ INFO ]  表达式: [getTestValue("out_trade_no",ResponseDepend("iyb-001","returnUrl"))]开始解析...
+2017-03-24 15:42:53  [ pool-1-thread-4:5727 ] - [ ERROR ]  表达式: getTestValue("out_trade_no",ResponseDepend("D:\workspace\TestCase\测试\iyb出单(3).xlsx#尊享e生出单#iyb-001","returnUrl")) 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-24 15:42:53  [ pool-1-thread-4:5737 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:iyb-001---------
+2017-03-24 15:42:54  [ main:6385 ] - [ INFO ]  ----程序结束运行----，程序运行时间【7838毫秒】

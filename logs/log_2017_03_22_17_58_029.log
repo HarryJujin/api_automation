@@ -1,0 +1,1706 @@
+2017-03-22 17:58:29  [ main:0 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险1
+2017-03-22 17:58:29  [ main:4 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do4
+2017-03-22 17:58:29  [ main:5 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do5
+2017-03-22 17:58:29  [ main:6 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险2
+2017-03-22 17:58:29  [ main:9 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险3
+2017-03-22 17:58:29  [ main:12 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do6
+2017-03-22 17:58:29  [ main:13 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险4
+2017-03-22 17:58:29  [ main:14 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险5
+2017-03-22 17:58:29  [ main:15 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险5
+2017-03-22 17:58:29  [ main:16 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航延险
+2017-03-22 17:58:29  [ main:17 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险1
+2017-03-22 17:58:29  [ main:18 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险2
+2017-03-22 17:58:29  [ main:19 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程账户安全险
+2017-03-22 17:58:29  [ main:20 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险3
+2017-03-22 17:58:29  [ main:21 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险4
+2017-03-22 17:58:29  [ main:22 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险5
+2017-03-22 17:58:29  [ pool-1-thread-13:25 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险2
+2017-03-22 17:58:29  [ pool-1-thread-15:25 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险3
+2017-03-22 17:58:29  [ pool-1-thread-19:30 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(4).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-22 17:58:29  [ pool-1-thread-9:25 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险5
+2017-03-22 17:58:29  [ pool-1-thread-14:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程账户安全险
+2017-03-22 17:58:29  [ pool-1-thread-10:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险5
+2017-03-22 17:58:29  [ pool-1-thread-2:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do4
+2017-03-22 17:58:29  [ pool-1-thread-4:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险2
+2017-03-22 17:58:29  [ pool-1-thread-17:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险4
+2017-03-22 17:58:29  [ pool-1-thread-17:37 ] - [ INFO ]  ---------当前用例执行开始，用例编号:航空意外伤害险(730),接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-6:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险3
+2017-03-22 17:58:29  [ pool-1-thread-6:38 ] - [ INFO ]  ---------当前用例执行开始，用例编号:众安国内因故酒店取消险-现付担保渠道,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-8:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险4
+2017-03-22 17:58:29  [ pool-1-thread-8:39 ] - [ INFO ]  ---------当前用例执行开始，用例编号:众安国内因故酒店取消险-预付渠道,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-7:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do6
+2017-03-22 17:58:29  [ pool-1-thread-7:40 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程艺龙航意险,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-4:40 ] - [ INFO ]  ---------当前用例执行开始，用例编号:众安酒店取消险-预付渠道,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-2:40 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程携程退票险,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-10:41 ] - [ INFO ]  ---------当前用例执行开始，用例编号:航空意外伤害险(725),接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-14:41 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程账户安全险,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-5:41 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-22 17:58:29  [ pool-1-thread-16:41 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-22 17:58:29  [ pool-1-thread-3:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do5
+2017-03-22 17:58:29  [ pool-1-thread-3:42 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程携程采购航意险,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-11:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航延险
+2017-03-22 17:58:29  [ pool-1-thread-11:43 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程30元航延险,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-12:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险1
+2017-03-22 17:58:29  [ pool-1-thread-12:43 ] - [ INFO ]  ---------当前用例执行开始，用例编号:航空意外伤害险(772),接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-18:25 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险5
+2017-03-22 17:58:29  [ pool-1-thread-18:43 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程旅游险005,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-1:25 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险1
+2017-03-22 17:58:29  [ pool-1-thread-1:45 ] - [ INFO ]  ---------当前用例执行开始，用例编号:众安酒店取消险-现付担保渠道,接口类型: HTTP
+2017-03-22 17:58:29  [ main:26 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-22 17:58:29  [ pool-1-thread-9:39 ] - [ INFO ]  ---------当前用例执行开始，用例编号:众安海外因故酒店取消险-预付渠道,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-19:36 ] - [ INFO ]  ---------当前用例执行开始，用例编号:iyb-001,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-15:49 ] - [ INFO ]  ---------当前用例执行开始，用例编号:航空意外伤害险(770),接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-21:48 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(4).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-22 17:58:29  [ pool-1-thread-20:48 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-22 17:58:29  [ pool-1-thread-20:49 ] - [ INFO ]  ---------当前用例执行开始，用例编号:众安携程游乐园001,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-13:47 ] - [ INFO ]  ---------当前用例执行开始，用例编号:航空意外伤害险(771),接口类型: HTTP
+2017-03-22 17:58:29  [ main:47 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\iyb出单(4).xlsx用例集开关 未包含 高端医疗出单
+2017-03-22 17:58:29  [ main:51 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险1
+2017-03-22 17:58:29  [ pool-1-thread-22:52 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\iyb出单(4).xlsx用例集开关 未包含 高端医疗出单
+2017-03-22 17:58:29  [ pool-1-thread-22:52 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(4).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-22 17:58:29  [ main:53 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程铁路意外综合保险
+2017-03-22 17:58:29  [ main:53 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险2
+2017-03-22 17:58:29  [ main:54 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do1
+2017-03-22 17:58:29  [ main:55 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险3
+2017-03-22 17:58:29  [ pool-1-thread-26:55 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do1
+2017-03-22 17:58:29  [ pool-1-thread-26:55 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程20元航延险,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-24:56 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程铁路意外综合保险
+2017-03-22 17:58:29  [ pool-1-thread-24:57 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程铁路意外综合保险承保,接口类型: HTTP
+2017-03-22 17:58:29  [ main:57 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do2
+2017-03-22 17:58:29  [ main:58 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险4
+2017-03-22 17:58:29  [ main:59 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do3
+2017-03-22 17:58:29  [ pool-1-thread-23:59 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险1
+2017-03-22 17:58:29  [ pool-1-thread-23:64 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程旅游险001,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-28:59 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do2
+2017-03-22 17:58:29  [ main:64 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\iyb出单(3).xlsx用例集开关 未包含 高端医疗出单
+2017-03-22 17:58:29  [ pool-1-thread-27:65 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险3
+2017-03-22 17:58:29  [ pool-1-thread-27:65 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程旅游险003,接口类型: HTTP
+2017-03-22 17:58:29  [ main:67 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-22 17:58:29  [ pool-1-thread-31:67 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do3
+2017-03-22 17:58:29  [ pool-1-thread-31:69 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程40元组合航意险,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-35:70 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-22 17:58:29  [ pool-1-thread-35:70 ] - [ INFO ]  ---------当前用例执行开始，用例编号:境外旅行意外伤害保险(携程机票95元),接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-28:65 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程30元40元航意险,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-32:71 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(4).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-22 17:58:29  [ pool-1-thread-30:72 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险4
+2017-03-22 17:58:29  [ pool-1-thread-30:75 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程旅游险004,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-34:75 ] - [ INFO ]  ---------当前用例执行开始，用例编号:case001,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-17:80 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransDate>20160423</TransDate>
+  <TransTime>000035</TransTime>
+  <OrderID>12987648888</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate>
+  <EffectTime>000000</EffectTime>
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate>
+  <ExpiryTime>000000</ExpiryTime>
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>HO1249</FlightNo>
+  <DepartureCity>CSX</DepartureCity>
+  <DepartureDate>20140608</DepartureDate>
+  <DepartureTime>152500</DepartureTime>
+  <ArrivalCity>LJG</ArrivalCity>
+  <ArrivalDate>20140608</ArrivalDate>
+  <ArrivalTime>175000</ArrivalTime>
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+  <ProposerRelation>01</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName></BeneficiaryName>
+    <BeneficiaryCardType></BeneficiaryCardType>
+    <BeneficiaryCardNo></BeneficiaryCardNo>
+    <BeneficiaryBirthDate></BeneficiaryBirthDate>
+    <BeneficiaryMobile></BeneficiaryMobile>
+    <BeneficiaryNeedSMS></BeneficiaryNeedSMS>
+    <BeneficiaryEmail></BeneficiaryEmail>
+    <BeneficiaryRelation></BeneficiaryRelation>
+    <BeneficiaryRate></BeneficiaryRate>
+   </Beneficiary>
+  </Beneficiarys>
+  <Extend1>
+    <IsEnglish>T</IsEnglish>
+  </Extend1>
+  
+ </TransData>
+ <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-25:82 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险2
+2017-03-22 17:58:29  [ pool-1-thread-25:83 ] - [ INFO ]  ---------当前用例执行开始，用例编号:携程旅游险002,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-25:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="GBK"?>
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>Ctrip</MerchantNo>
+        <TransTime>20160407226532</TransTime>
+        <OrderID>11489949828</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>beijing</Destination>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerGender>M</ProposerGender>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerRelation>05</ProposerRelation>
+        <InsuredInfo>
+            <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+            <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+            <InsuredCardNo>$GetExcelData("InsuredCardNo")</InsuredCardNo>
+            <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+            <InsuredGender>F</InsuredGender>
+            <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+            <InsuredNeedSMS>$GetExcelData("InsuredNeedSMS")</InsuredNeedSMS>
+            <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+            <Beneficiarys>
+                <Beneficiary>
+                    <SN>1</SN>
+                    <BeneficiaryName>dongmei</BeneficiaryName>
+                    <BeneficiaryCardType>02</BeneficiaryCardType>
+                    <BeneficiaryCardNo>12346</BeneficiaryCardNo>
+                    <BeneficiaryBirthDate>19880925</BeneficiaryBirthDate>
+                    <BeneficiaryGender>F</BeneficiaryGender>
+                    <BeneficiaryMobile>1381647335</BeneficiaryMobile>
+                    <BeneficiaryNeedSMS>F</BeneficiaryNeedSMS>
+                    <BeneficiaryEmail>heyuan@zhongan.com</BeneficiaryEmail>
+                    <BeneficiaryRelation>00</BeneficiaryRelation>
+                    <BeneficiaryRate>5</BeneficiaryRate>
+                </Beneficiary>
+            </Beneficiarys>
+        </InsuredInfo>
+        <Extend1>3baa83faaa354a2bafaebb3a0cf7278b</Extend1>
+    </TransData>
+    <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-4:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>ctrip</MerchantNo>
+        <TransTime>20160602123000</TransTime>
+        <OrderTime>20160602123000</OrderTime>
+        <OrderID>xianfuqudao000</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>SH</Destination>
+         <IsCashGuarantee>F</IsCashGuarantee>
+         <HotelName>dishini</HotelName>
+          <TerminalTime>20160602123000</TerminalTime>
+          <RoomChange>300</RoomChange>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <Insureds>
+            <Insured>
+                <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+                <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+                <InsuredCardNo>$GetExcelData("InsuredCardNo")}</InsuredCardNo>
+                <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+                <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+                <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+                <InsuredGender>F</InsuredGender>
+                <InsuredAddress/>
+            </Insured>
+        </Insureds>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerGender>M</ProposerGender>
+        <ProposerAddress/>
+        <Beneficiarys>
+            <Beneficiary>
+                <SN>1</SN>
+                <BeneficiaryName/>
+                <BeneficiaryCardType/>
+                <BeneficiaryCardNo/>
+                <BeneficiaryBirthDate/>
+                <BeneficiaryMobile/>
+                <BeneficiaryEmail/>
+                <BeneficiaryRate/>
+            </Beneficiary>
+        </Beneficiarys>
+        <Extend1/>
+    </TransData>
+    <TransSignature/>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-29:82 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-22 17:58:29  [ pool-1-thread-29:85 ] - [ INFO ]  ---------当前用例执行开始，用例编号:iyb-001,接口类型: HTTP
+2017-03-22 17:58:29  [ pool-1-thread-29:85 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+{
+  "applicant": [
+    {
+      "applicantCertType": "I",
+      "applicantName": "测试投保人",
+      "applicantCertNo": "@RIdWithBirthday(RDate("YYYYMMdd","-25/0/0"),"1")",
+      "applicantBirthday": "@RDate("YYYY-MM-dd","-25/0/0")",
+      "applicantGender": "M",
+      "applicantEmail": "1607217918@qq.com"
+    }
+  ],
+  "insured": [
+    {
+      "isOpen": "open",
+      "ensurePlan": "$GetExcelData("assortmentId")",
+      "amount": "0",
+      "insurantCertType": "I",
+      "insurance": "Y",
+      "relation": "2",
+      "insurantName": "测试配偶",
+      "insurantCertNo": "$GetExcelData("insurantCertNo")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantGender": "F"
+    }
+  ],
+  "insurance": [
+    {
+      "productName": "$GetExcelData("productName")",
+      "expires": "1年",
+      "effectiveDate": "@RDate("YYYY-MM-dd","0")",
+      "expiryDate": "@RDate("YYYY-MM-dd","1/0/-1")",
+      "person": "法定",
+      "quantity": 1
+    }
+  ],
+  "communication": [
+    {
+      "applicantMobile": "15618757067",
+      "smsCode": "888888"
+    }
+  ],
+  "assortmentId": "$GetExcelData("assortmentId")",
+  "productId": "$GetExcelData("productId")",
+  "accountId": "$GetExcelData("accountId")",
+  "coupon": ""
+}
+2017-03-22 17:58:29  [ pool-1-thread-9:84 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>ctrip</MerchantNo>
+        <TransTime>20160602123000</TransTime>
+        <OrderTime>20160602123000</OrderTime>
+        <OrderID>xianfuqudao000</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>SH</Destination>
+         <IsCashGuarantee>F</IsCashGuarantee>
+         <HotelName>dishini</HotelName>
+          <TerminalTime>20160602123000</TerminalTime>
+          <RoomChange>300</RoomChange>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <Insureds>
+            <Insured>
+                <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+                <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+                <InsuredCardNo>$GetExcelData("InsuredCardNo")}</InsuredCardNo>
+                <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+                <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+                <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+                <InsuredGender>F</InsuredGender>
+                <InsuredAddress/>
+            </Insured>
+        </Insureds>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerGender>M</ProposerGender>
+        <ProposerAddress/>
+        <Beneficiarys>
+            <Beneficiary>
+                <SN>1</SN>
+                <BeneficiaryName/>
+                <BeneficiaryCardType/>
+                <BeneficiaryCardNo/>
+                <BeneficiaryBirthDate/>
+                <BeneficiaryMobile/>
+                <BeneficiaryEmail/>
+                <BeneficiaryRate/>
+            </Beneficiary>
+        </Beneficiarys>
+        <Extend1/>
+    </TransData>
+    <TransSignature/>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-34:84 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+X-Requested-With=XMLHttpRequest|assortmentId=51252513&premium_params[AMOUNT][key]=AMOUNT&premium_params[AMOUNT][value]=1000000&premium_params[AMOUNT][type]=2&premium_params[AMOUNT][belong]=4&premium_params[EXPIRES][key]=EXPIRES&premium_params[EXPIRES][value]=1年&premium_params[EXPIRES][type]=3&premium_params[EXPIRES][belong]=3&premium_params[INSURANCE][key]=INSURANCE&premium_params[INSURANCE][type]=3&premium_params[INSURANCE][belong]=2&premium_params[BIRTHDAY][key]=BIRTHDAY&premium_params[BIRTHDAY][type]=3&premium_params[BIRTHDAY][belong]=2&premium_params[INSURANCE][value]=$GetExcelData("hasSheBao")&premium_params[BIRTHDAY][value]=$GetExcelData("BIRTHDAY")
+2017-03-22 17:58:29  [ pool-1-thread-30:84 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="GBK"?>
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>Ctrip</MerchantNo>
+        <TransTime>20160407226532</TransTime>
+        <OrderID>11489949828</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>beijing</Destination>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerGender>M</ProposerGender>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerRelation>05</ProposerRelation>
+        <InsuredInfo>
+            <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+            <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+            <InsuredCardNo>$GetExcelData("InsuredCardNo")</InsuredCardNo>
+            <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+            <InsuredGender>F</InsuredGender>
+            <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+            <InsuredNeedSMS>$GetExcelData("InsuredNeedSMS")</InsuredNeedSMS>
+            <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+            <Beneficiarys>
+                <Beneficiary>
+                    <SN>1</SN>
+                    <BeneficiaryName>dongmei</BeneficiaryName>
+                    <BeneficiaryCardType>02</BeneficiaryCardType>
+                    <BeneficiaryCardNo>12346</BeneficiaryCardNo>
+                    <BeneficiaryBirthDate>19880925</BeneficiaryBirthDate>
+                    <BeneficiaryGender>F</BeneficiaryGender>
+                    <BeneficiaryMobile>1381647335</BeneficiaryMobile>
+                    <BeneficiaryNeedSMS>F</BeneficiaryNeedSMS>
+                    <BeneficiaryEmail>heyuan@zhongan.com</BeneficiaryEmail>
+                    <BeneficiaryRelation>00</BeneficiaryRelation>
+                    <BeneficiaryRate>5</BeneficiaryRate>
+                </Beneficiary>
+            </Beneficiarys>
+        </InsuredInfo>
+        <Extend1>3baa83faaa354a2bafaebb3a0cf7278b</Extend1>
+    </TransData>
+    <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-28:84 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransTime>20160502161619</TransTime>
+  <OrderID>12222SDFDSSFDS0</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate> 
+  <EffectTime>$GetExcelData("EffectTime")</EffectTime> 
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate> 
+  <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime> 
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>MU51045</FlightNo>
+  <DepartureCity>PEG</DepartureCity>
+  <DepartureTime>20160503155000</DepartureTime>
+  <ArrivalCity>HKAA</ArrivalCity>
+  <ArrivalTime>20160503175000</ArrivalTime>  
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>  
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType> 
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo> 
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate> 
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS> 
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail> 
+  <ProposerRelation>00</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>
+   <Beneficiary>
+    <SN>2</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>  
+  </Beneficiarys> 
+  <Extend1>
+  <IsEnglish>F</IsEnglish>
+  <Premium>25</Premium>
+  </Extend1>
+ </TransData>
+ <TransSignature>
+</TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-35:84 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="GBK"?>
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>Ctrip</MerchantNo>
+        <TransTime>20151117090000</TransTime>
+        <OrderID>515555555555500001</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>paris</Destination>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerGender>M</ProposerGender>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerRelation>01</ProposerRelation>
+        <InsuredInfo>
+            <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+            <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+            <InsuredCardNo>$GetExcelData("InsuredCardNo")</InsuredCardNo>
+            <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+            <InsuredGender>M</InsuredGender>
+            <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+            <InsuredNeedSMS>$GetExcelData("InsuredNeedSMS")</InsuredNeedSMS>
+            <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+            <Beneficiarys>
+                <Beneficiary>
+                    <SN>1</SN>
+                    <BeneficiaryName>vivian</BeneficiaryName>
+                    <BeneficiaryCardType>01</BeneficiaryCardType>
+                    <BeneficiaryCardNo>110101198001017458</BeneficiaryCardNo>
+                    <BeneficiaryBirthDate>19800101</BeneficiaryBirthDate>
+                    <BeneficiaryGender>M</BeneficiaryGender>
+                    <BeneficiaryMobile>13816473335</BeneficiaryMobile>
+                    <BeneficiaryNeedSMS>F</BeneficiaryNeedSMS>
+                    <BeneficiaryEmail></BeneficiaryEmail>
+                    <BeneficiaryRelation>04</BeneficiaryRelation>
+                    <BeneficiaryRate>50%</BeneficiaryRate>
+                </Beneficiary>
+                <Beneficiary>
+                    <SN>2</SN>
+                    <BeneficiaryName>qqqq</BeneficiaryName>
+                    <BeneficiaryCardType>01</BeneficiaryCardType>
+                    <BeneficiaryCardNo>110101198001013190</BeneficiaryCardNo>
+                    <BeneficiaryBirthDate>19800101</BeneficiaryBirthDate>
+                    <BeneficiaryGender>M</BeneficiaryGender>
+                    <BeneficiaryMobile>13482598649</BeneficiaryMobile>
+                    <BeneficiaryNeedSMS>F</BeneficiaryNeedSMS>
+                    <BeneficiaryEmail></BeneficiaryEmail>
+                    <BeneficiaryRelation>04</BeneficiaryRelation>
+                    <BeneficiaryRate>50%</BeneficiaryRate>
+                </Beneficiary>
+            </Beneficiarys>
+        </InsuredInfo>
+        <Extend1></Extend1>
+    </TransData>
+    <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-31:84 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransTime>20160502161619</TransTime>
+  <OrderID>12222SDFDSSFDS0</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate> 
+  <EffectTime>$GetExcelData("EffectTime")</EffectTime> 
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate> 
+  <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime> 
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>MU51045</FlightNo>
+  <DepartureCity>PEG</DepartureCity>
+  <DepartureTime>20160503155000</DepartureTime>
+  <ArrivalCity>HKAA</ArrivalCity>
+  <ArrivalTime>20160503175000</ArrivalTime>  
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>  
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType> 
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo> 
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate> 
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS> 
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail> 
+  <ProposerRelation>00</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>
+   <Beneficiary>
+    <SN>2</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>  
+  </Beneficiarys> 
+  <Extend1>
+  <IsEnglish>F</IsEnglish>
+  <Premium>25</Premium>
+  </Extend1>
+ </TransData>
+ <TransSignature>
+</TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-27:84 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="GBK"?>
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>Ctrip</MerchantNo>
+        <TransTime>20160407226532</TransTime>
+        <OrderID>11489949828</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>beijing</Destination>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerGender>M</ProposerGender>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerRelation>05</ProposerRelation>
+        <InsuredInfo>
+            <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+            <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+            <InsuredCardNo>$GetExcelData("InsuredCardNo")</InsuredCardNo>
+            <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+            <InsuredGender>F</InsuredGender>
+            <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+            <InsuredNeedSMS>$GetExcelData("InsuredNeedSMS")</InsuredNeedSMS>
+            <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+            <Beneficiarys>
+                <Beneficiary>
+                    <SN>1</SN>
+                    <BeneficiaryName>dongmei</BeneficiaryName>
+                    <BeneficiaryCardType>02</BeneficiaryCardType>
+                    <BeneficiaryCardNo>12346</BeneficiaryCardNo>
+                    <BeneficiaryBirthDate>19880925</BeneficiaryBirthDate>
+                    <BeneficiaryGender>F</BeneficiaryGender>
+                    <BeneficiaryMobile>1381647335</BeneficiaryMobile>
+                    <BeneficiaryNeedSMS>F</BeneficiaryNeedSMS>
+                    <BeneficiaryEmail>heyuan@zhongan.com</BeneficiaryEmail>
+                    <BeneficiaryRelation>00</BeneficiaryRelation>
+                    <BeneficiaryRate>5</BeneficiaryRate>
+                </Beneficiary>
+            </Beneficiarys>
+        </InsuredInfo>
+        <Extend1>3baa83faaa354a2bafaebb3a0cf7278b</Extend1>
+    </TransData>
+    <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-23:84 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="GBK"?>
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>Ctrip</MerchantNo>
+        <TransTime>20160407226532</TransTime>
+        <OrderID>11489949828</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>beijing</Destination>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerGender>M</ProposerGender>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerRelation>05</ProposerRelation>
+        <InsuredInfo>
+            <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+            <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+            <InsuredCardNo>$GetExcelData("InsuredCardNo")</InsuredCardNo>
+            <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+            <InsuredGender>F</InsuredGender>
+            <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+            <InsuredNeedSMS>$GetExcelData("InsuredNeedSMS")</InsuredNeedSMS>
+            <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+            <Beneficiarys>
+                <Beneficiary>
+                    <SN>1</SN>
+                    <BeneficiaryName>dongmei</BeneficiaryName>
+                    <BeneficiaryCardType>02</BeneficiaryCardType>
+                    <BeneficiaryCardNo>12346</BeneficiaryCardNo>
+                    <BeneficiaryBirthDate>19880925</BeneficiaryBirthDate>
+                    <BeneficiaryGender>F</BeneficiaryGender>
+                    <BeneficiaryMobile>1381647335</BeneficiaryMobile>
+                    <BeneficiaryNeedSMS>F</BeneficiaryNeedSMS>
+                    <BeneficiaryEmail>heyuan@zhongan.com</BeneficiaryEmail>
+                    <BeneficiaryRelation>00</BeneficiaryRelation>
+                    <BeneficiaryRate>5</BeneficiaryRate>
+                </Beneficiary>
+            </Beneficiarys>
+        </InsuredInfo>
+        <Extend1>3baa83faaa354a2bafaebb3a0cf7278b</Extend1>
+    </TransData>
+    <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-24:84 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="UTF-8"?>
+<ApplyRequest>
+  <TransData>
+    <TransID>$GetExcelData("TransID")</TransID>
+    <MerchantNo>Ctrip</MerchantNo>
+    <TransTime>201500609112459</TransTime>
+    <OrderID>1340403577</OrderID>
+    <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+    <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+    <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+    <PolicyCount>1</PolicyCount>
+    <RailWayNumber>D8274</RailWayNumber>
+    <DepartureStation>柳州</DepartureStation>
+    <DepartureTime>20150528132000</DepartureTime>
+    <ArrivalStation>桂林</ArrivalStation>
+    <ArrivalTime>$GetExcelData("ExpiryTime")</ArrivalTime>
+    <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+    <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+    <InsuredCardNo>$GetExcelData("InsuredCardNo")</InsuredCardNo>
+    <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+    <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+    <InsuredNeedSMS>$GetExcelData("InsuredNeedSMS")</InsuredNeedSMS>
+    <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+    <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+    <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+    <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+    <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+    <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+    <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+    <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+    <ProposerRelation>01</ProposerRelation>
+    <Beneficiarys>
+      <Beneficiary>
+        <SN>1</SN>
+        <BeneficiaryName></BeneficiaryName>
+        <BeneficiaryCardType></BeneficiaryCardType>
+        <BeneficiaryCardNo></BeneficiaryCardNo>
+        <BeneficiaryBirthDate></BeneficiaryBirthDate>
+        <BeneficiaryMobile></BeneficiaryMobile>
+        <BeneficiaryNeedSMS></BeneficiaryNeedSMS>
+        <BeneficiaryEmail></BeneficiaryEmail>
+        <BeneficiaryRelation></BeneficiaryRelation>
+        <BeneficiaryRate></BeneficiaryRate>
+      </Beneficiary>
+    </Beneficiarys>
+    <Extend1></Extend1>
+  </TransData>
+  <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-26:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransTime>20160502161619</TransTime>
+  <OrderID>12222SDFDSSFDS0</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate> 
+  <EffectTime>$GetExcelData("EffectTime")</EffectTime> 
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate> 
+  <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime> 
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>MU51045</FlightNo>
+  <DepartureCity>PEG</DepartureCity>
+  <DepartureTime>20160503155000</DepartureTime>
+  <ArrivalCity>HKAA</ArrivalCity>
+  <ArrivalTime>20160503175000</ArrivalTime>  
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>  
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType> 
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo> 
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate> 
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS> 
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail> 
+  <ProposerRelation>00</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>
+   <Beneficiary>
+    <SN>2</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>  
+  </Beneficiarys> 
+  <Extend1>
+  <IsEnglish>F</IsEnglish>
+  <Premium>25</Premium>
+  </Extend1>
+ </TransData>
+ <TransSignature>
+</TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-13:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransDate>20160423</TransDate>
+  <TransTime>000035</TransTime>
+  <OrderID>12987648888</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate>
+  <EffectTime>000000</EffectTime>
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate>
+  <ExpiryTime>000000</ExpiryTime>
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>HO1249</FlightNo>
+  <DepartureCity>CSX</DepartureCity>
+  <DepartureDate>20140608</DepartureDate>
+  <DepartureTime>152500</DepartureTime>
+  <ArrivalCity>LJG</ArrivalCity>
+  <ArrivalDate>20140608</ArrivalDate>
+  <ArrivalTime>175000</ArrivalTime>
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+  <ProposerRelation>01</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName></BeneficiaryName>
+    <BeneficiaryCardType></BeneficiaryCardType>
+    <BeneficiaryCardNo></BeneficiaryCardNo>
+    <BeneficiaryBirthDate></BeneficiaryBirthDate>
+    <BeneficiaryMobile></BeneficiaryMobile>
+    <BeneficiaryNeedSMS></BeneficiaryNeedSMS>
+    <BeneficiaryEmail></BeneficiaryEmail>
+    <BeneficiaryRelation></BeneficiaryRelation>
+    <BeneficiaryRate></BeneficiaryRate>
+   </Beneficiary>
+  </Beneficiarys>
+  <Extend1>
+    <IsEnglish>T</IsEnglish>
+  </Extend1>
+  
+ </TransData>
+ <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-19:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+{
+  "applicant": [
+    {
+      "applicantCertType": "I",
+      "applicantName": "测试投保人",
+      "applicantCertNo": "@RIdWithBirthday(RDate("YYYYMMdd","-25/0/0"),"1")",
+      "applicantBirthday": "@RDate("YYYY-MM-dd","-25/0/0")",
+      "applicantGender": "M",
+      "applicantEmail": "1607217918@qq.com"
+    }
+  ],
+  "insured": [
+    {
+      "isOpen": "open",
+      "ensurePlan": "$GetExcelData("assortmentId")",
+      "amount": "0",
+      "insurantCertType": "I",
+      "insurance": "Y",
+      "relation": "2",
+      "insurantName": "测试配偶",
+      "insurantCertNo": "$GetExcelData("insurantCertNo")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantGender": "F"
+    }
+  ],
+  "insurance": [
+    {
+      "productName": "$GetExcelData("productName")",
+      "expires": "1年",
+      "effectiveDate": "@RDate("YYYY-MM-dd","0")",
+      "expiryDate": "@RDate("YYYY-MM-dd","1/0/-1")",
+      "person": "法定",
+      "quantity": 1
+    }
+  ],
+  "communication": [
+    {
+      "applicantMobile": "15618757067",
+      "smsCode": "888888"
+    }
+  ],
+  "assortmentId": "$GetExcelData("assortmentId")",
+  "productId": "$GetExcelData("productId")",
+  "accountId": "$GetExcelData("accountId")",
+  "coupon": ""
+}
+2017-03-22 17:58:29  [ pool-1-thread-1:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>ctrip</MerchantNo>
+        <TransTime>20160602123000</TransTime>
+        <OrderTime>20160602123000</OrderTime>
+        <OrderID>xianfuqudao000</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>SH</Destination>
+         <IsCashGuarantee>F</IsCashGuarantee>
+         <HotelName>dishini</HotelName>
+          <TerminalTime>20160602123000</TerminalTime>
+          <RoomChange>300</RoomChange>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <Insureds>
+            <Insured>
+                <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+                <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+                <InsuredCardNo>$GetExcelData("InsuredCardNo")}</InsuredCardNo>
+                <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+                <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+                <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+                <InsuredGender>F</InsuredGender>
+                <InsuredAddress/>
+            </Insured>
+        </Insureds>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerGender>M</ProposerGender>
+        <ProposerAddress/>
+        <Beneficiarys>
+            <Beneficiary>
+                <SN>1</SN>
+                <BeneficiaryName/>
+                <BeneficiaryCardType/>
+                <BeneficiaryCardNo/>
+                <BeneficiaryBirthDate/>
+                <BeneficiaryMobile/>
+                <BeneficiaryEmail/>
+                <BeneficiaryRate/>
+            </Beneficiary>
+        </Beneficiarys>
+        <Extend1/>
+    </TransData>
+    <TransSignature/>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-20:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="UTF-8"?>
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransTime>20160419101010</TransTime>
+  <OrderID>biaozhunk00000</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+  <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime> 
+  <PolicyCount>1</PolicyCount> 
+  <Premium>$GetExcelData("Premium")</Premium>
+  <Destination>SH</Destination>  
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>  
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType> 
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo> 
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>   
+  <ProposerGender>F</ProposerGender>  
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile> 
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS> 
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail> 
+  <ProposerRelation>00</ProposerRelation> 
+  <InsuredInfo>
+   <InsuredName>$GetExcelData("InsuredName")</InsuredName>     
+   <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>  
+   <InsuredCardNo>$GetExcelData("InsuredCardNo")</InsuredCardNo>  
+   <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate> 
+   <InsuredGender>F</InsuredGender>   
+   <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>    
+   <InsuredNeedSMS>$GetExcelData("InsuredNeedSMS")</InsuredNeedSMS>
+   <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>  
+   <Beneficiarys>
+    <Beneficiary>
+     <SN>1</SN>
+     <BeneficiaryName></BeneficiaryName>
+     <BeneficiaryCardType></BeneficiaryCardType>
+     <BeneficiaryCardNo></BeneficiaryCardNo>
+     <BeneficiaryBirthDate></BeneficiaryBirthDate> 
+     <BeneficiaryGender></BeneficiaryGender>   
+     <BeneficiaryMobile></BeneficiaryMobile> 
+     <BeneficiaryNeedSMS></BeneficiaryNeedSMS>
+     <BeneficiaryEmail></BeneficiaryEmail> 
+     <BeneficiaryRelation></BeneficiaryRelation> 
+     <BeneficiaryRate></BeneficiaryRate>
+    </Beneficiary>
+   </Beneficiarys>
+  </InsuredInfo> 
+  <Extend1></Extend1>
+ </TransData>
+ <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-15:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransDate>20160423</TransDate>
+  <TransTime>000035</TransTime>
+  <OrderID>12987648888</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate>
+  <EffectTime>000000</EffectTime>
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate>
+  <ExpiryTime>000000</ExpiryTime>
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>HO1249</FlightNo>
+  <DepartureCity>CSX</DepartureCity>
+  <DepartureDate>20140608</DepartureDate>
+  <DepartureTime>152500</DepartureTime>
+  <ArrivalCity>LJG</ArrivalCity>
+  <ArrivalDate>20140608</ArrivalDate>
+  <ArrivalTime>175000</ArrivalTime>
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+  <ProposerRelation>01</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName></BeneficiaryName>
+    <BeneficiaryCardType></BeneficiaryCardType>
+    <BeneficiaryCardNo></BeneficiaryCardNo>
+    <BeneficiaryBirthDate></BeneficiaryBirthDate>
+    <BeneficiaryMobile></BeneficiaryMobile>
+    <BeneficiaryNeedSMS></BeneficiaryNeedSMS>
+    <BeneficiaryEmail></BeneficiaryEmail>
+    <BeneficiaryRelation></BeneficiaryRelation>
+    <BeneficiaryRate></BeneficiaryRate>
+   </Beneficiary>
+  </Beneficiarys>
+  <Extend1>
+    <IsEnglish>T</IsEnglish>
+  </Extend1>
+  
+ </TransData>
+ <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-18:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="GBK"?>
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>Ctrip</MerchantNo>
+        <TransTime>20160407226532</TransTime>
+        <OrderID>11489949828</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>beijing</Destination>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerGender>M</ProposerGender>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerRelation>05</ProposerRelation>
+        <InsuredInfo>
+            <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+            <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+            <InsuredCardNo>$GetExcelData("InsuredCardNo")</InsuredCardNo>
+            <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+            <InsuredGender>F</InsuredGender>
+            <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+            <InsuredNeedSMS>$GetExcelData("InsuredNeedSMS")</InsuredNeedSMS>
+            <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+            <Beneficiarys>
+                <Beneficiary>
+                    <SN>1</SN>
+                    <BeneficiaryName>dongmei</BeneficiaryName>
+                    <BeneficiaryCardType>02</BeneficiaryCardType>
+                    <BeneficiaryCardNo>12346</BeneficiaryCardNo>
+                    <BeneficiaryBirthDate>19880925</BeneficiaryBirthDate>
+                    <BeneficiaryGender>F</BeneficiaryGender>
+                    <BeneficiaryMobile>1381647335</BeneficiaryMobile>
+                    <BeneficiaryNeedSMS>F</BeneficiaryNeedSMS>
+                    <BeneficiaryEmail>heyuan@zhongan.com</BeneficiaryEmail>
+                    <BeneficiaryRelation>00</BeneficiaryRelation>
+                    <BeneficiaryRate>5</BeneficiaryRate>
+                </Beneficiary>
+            </Beneficiarys>
+        </InsuredInfo>
+        <Extend1>3baa83faaa354a2bafaebb3a0cf7278b</Extend1>
+    </TransData>
+    <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-12:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransDate>20160423</TransDate>
+  <TransTime>000035</TransTime>
+  <OrderID>12987648888</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate>
+  <EffectTime>000000</EffectTime>
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate>
+  <ExpiryTime>000000</ExpiryTime>
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>HO1249</FlightNo>
+  <DepartureCity>CSX</DepartureCity>
+  <DepartureDate>20140608</DepartureDate>
+  <DepartureTime>152500</DepartureTime>
+  <ArrivalCity>LJG</ArrivalCity>
+  <ArrivalDate>20140608</ArrivalDate>
+  <ArrivalTime>175000</ArrivalTime>
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+  <ProposerRelation>01</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName></BeneficiaryName>
+    <BeneficiaryCardType></BeneficiaryCardType>
+    <BeneficiaryCardNo></BeneficiaryCardNo>
+    <BeneficiaryBirthDate></BeneficiaryBirthDate>
+    <BeneficiaryMobile></BeneficiaryMobile>
+    <BeneficiaryNeedSMS></BeneficiaryNeedSMS>
+    <BeneficiaryEmail></BeneficiaryEmail>
+    <BeneficiaryRelation></BeneficiaryRelation>
+    <BeneficiaryRate></BeneficiaryRate>
+   </Beneficiary>
+  </Beneficiarys>
+  <Extend1>
+    <IsEnglish>T</IsEnglish>
+  </Extend1>
+  
+ </TransData>
+ <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-11:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="GBK"?>
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransTime>20160218180000</TransTime>
+  <OrderID>234567543213oo</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+  <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+  <Premium>$GetExcelData("Premium")</Premium>
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>FM001</FlightNo>
+  <DepartureCity>SH</DepartureCity>
+  <DepartureTime>$GetExcelData("EffectTime")</DepartureTime>
+  <ArrivalCity>BJ</ArrivalCity>
+  <ArrivalTime>$GetExcelData("ExpiryTime")</ArrivalTime>  
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>  
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType> 
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo> 
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate> 
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile> 
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail> 
+  <ProposerRelation>00</ProposerRelation> 
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>
+   <Beneficiary>
+    <SN>2</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>  
+  </Beneficiarys> 
+  <Extend1/>
+ </TransData>
+ <TransSignature/>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-6:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>ctrip</MerchantNo>
+        <TransTime>20160602123000</TransTime>
+        <OrderTime>20160602123000</OrderTime>
+        <OrderID>xianfuqudao000</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>SH</Destination>
+         <IsCashGuarantee>F</IsCashGuarantee>
+         <HotelName>dishini</HotelName>
+          <TerminalTime>20160602123000</TerminalTime>
+          <RoomChange>300</RoomChange>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <Insureds>
+            <Insured>
+                <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+                <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+                <InsuredCardNo>$GetExcelData("InsuredCardNo")}</InsuredCardNo>
+                <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+                <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+                <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+                <InsuredGender>F</InsuredGender>
+                <InsuredAddress/>
+            </Insured>
+        </Insureds>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerGender>M</ProposerGender>
+        <ProposerAddress/>
+        <Beneficiarys>
+            <Beneficiary>
+                <SN>1</SN>
+                <BeneficiaryName/>
+                <BeneficiaryCardType/>
+                <BeneficiaryCardNo/>
+                <BeneficiaryBirthDate/>
+                <BeneficiaryMobile/>
+                <BeneficiaryEmail/>
+                <BeneficiaryRate/>
+            </Beneficiary>
+        </Beneficiarys>
+        <Extend1/>
+    </TransData>
+    <TransSignature/>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-8:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+    <TransData>
+        <TransID>$GetExcelData("TransID")</TransID>
+        <MerchantNo>ctrip</MerchantNo>
+        <TransTime>20160602123000</TransTime>
+        <OrderTime>20160602123000</OrderTime>
+        <OrderID>xianfuqudao000</OrderID>
+        <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+        <PolicyCount>1</PolicyCount>
+        <Premium>$GetExcelData("Premium")</Premium>
+        <Destination>SH</Destination>
+         <IsCashGuarantee>F</IsCashGuarantee>
+         <HotelName>dishini</HotelName>
+          <TerminalTime>20160602123000</TerminalTime>
+          <RoomChange>300</RoomChange>
+        <EffectTime>$GetExcelData("EffectTime")</EffectTime>
+        <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime>
+        <Insureds>
+            <Insured>
+                <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+                <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+                <InsuredCardNo>$GetExcelData("InsuredCardNo")}</InsuredCardNo>
+                <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+                <InsuredMobile>$GetExcelData("InsuredMobile")</InsuredMobile>
+                <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+                <InsuredGender>F</InsuredGender>
+                <InsuredAddress/>
+            </Insured>
+        </Insureds>
+        <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+        <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+        <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+        <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+        <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+        <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+        <ProposerGender>M</ProposerGender>
+        <ProposerAddress/>
+        <Beneficiarys>
+            <Beneficiary>
+                <SN>1</SN>
+                <BeneficiaryName/>
+                <BeneficiaryCardType/>
+                <BeneficiaryCardNo/>
+                <BeneficiaryBirthDate/>
+                <BeneficiaryMobile/>
+                <BeneficiaryEmail/>
+                <BeneficiaryRate/>
+            </Beneficiary>
+        </Beneficiarys>
+        <Extend1/>
+    </TransData>
+    <TransSignature/>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-7:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransTime>20160502161619</TransTime>
+  <OrderID>12222SDFDSSFDS0</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate> 
+  <EffectTime>$GetExcelData("EffectTime")</EffectTime> 
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate> 
+  <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime> 
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>MU51045</FlightNo>
+  <DepartureCity>PEG</DepartureCity>
+  <DepartureTime>20160503155000</DepartureTime>
+  <ArrivalCity>HKAA</ArrivalCity>
+  <ArrivalTime>20160503175000</ArrivalTime>  
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>  
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType> 
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo> 
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate> 
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS> 
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail> 
+  <ProposerRelation>00</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>
+   <Beneficiary>
+    <SN>2</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>  
+  </Beneficiarys> 
+  <Extend1>
+  <IsEnglish>F</IsEnglish>
+  <Premium>25</Premium>
+  </Extend1>
+ </TransData>
+ <TransSignature>
+</TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-3:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransTime>20160502161619</TransTime>
+  <OrderID>12222SDFDSSFDS0</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate> 
+  <EffectTime>$GetExcelData("EffectTime")</EffectTime> 
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate> 
+  <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime> 
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>MU51045</FlightNo>
+  <DepartureCity>PEG</DepartureCity>
+  <DepartureTime>20160503155000</DepartureTime>
+  <ArrivalCity>HKAA</ArrivalCity>
+  <ArrivalTime>20160503175000</ArrivalTime>  
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>  
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType> 
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo> 
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate> 
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS> 
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail> 
+  <ProposerRelation>00</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>
+   <Beneficiary>
+    <SN>2</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>  
+  </Beneficiarys> 
+  <Extend1>
+  <IsEnglish>F</IsEnglish>
+  <Premium>25</Premium>
+  </Extend1>
+ </TransData>
+ <TransSignature>
+</TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-14:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="UTF-8"?>
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransTime>20160106090954</TransTime>
+  <OrderID>1642660775</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectTime>20160103091813</EffectTime>
+  <ExpiryTime>20170102235959</ExpiryTime>
+  <PolicyCount>1</PolicyCount>
+  <Premium>1.6000</Premium>
+  <Destination>中国</Destination>
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+  <ProposerGender>M</ProposerGender>
+  <ProposerMobile></ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+  <ProposerRelation>00</ProposerRelation>
+  <InsuredInfo>
+   <InsuredName>$GetExcelData("InsuredName")</InsuredName>
+   <InsuredCardType>$GetExcelData("InsuredCardType")</InsuredCardType>
+   <InsuredCardNo>$GetExcelData("InsuredCardNo")</InsuredCardNo>
+   <InsuredBirthDate>$GetExcelData("InsuredBirthDate")</InsuredBirthDate>
+   <InsuredGender>M</InsuredGender>
+   <InsuredMobile></InsuredMobile>
+   <InsuredNeedSMS>$GetExcelData("InsuredNeedSMS")</InsuredNeedSMS>
+   <InsuredEmail>$GetExcelData("InsuredEmail")</InsuredEmail>
+   <Beneficiarys>
+    <Beneficiary>
+     <SN>1</SN>
+     <BeneficiaryName></BeneficiaryName>
+     <BeneficiaryCardType></BeneficiaryCardType>
+     <BeneficiaryCardNo></BeneficiaryCardNo>
+     <BeneficiaryBirthDate></BeneficiaryBirthDate>
+     <BeneficiaryGender></BeneficiaryGender>
+     <BeneficiaryMobile></BeneficiaryMobile>
+     <BeneficiaryNeedSMS></BeneficiaryNeedSMS>
+     <BeneficiaryEmail></BeneficiaryEmail>
+     <BeneficiaryRelation></BeneficiaryRelation>
+     <BeneficiaryRate></BeneficiaryRate>
+    </Beneficiary>
+   </Beneficiarys>
+  </InsuredInfo>
+  <Extend1>cd191ec2a4614768bea0a24585f42f24</Extend1>
+ </TransData>
+ <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-10:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransDate>20160423</TransDate>
+  <TransTime>000035</TransTime>
+  <OrderID>12987648888</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate>
+  <EffectTime>000000</EffectTime>
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate>
+  <ExpiryTime>000000</ExpiryTime>
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>HO1249</FlightNo>
+  <DepartureCity>CSX</DepartureCity>
+  <DepartureDate>20140608</DepartureDate>
+  <DepartureTime>152500</DepartureTime>
+  <ArrivalCity>LJG</ArrivalCity>
+  <ArrivalDate>20140608</ArrivalDate>
+  <ArrivalTime>175000</ArrivalTime>
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType>
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo>
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate>
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS>
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail>
+  <ProposerRelation>01</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName></BeneficiaryName>
+    <BeneficiaryCardType></BeneficiaryCardType>
+    <BeneficiaryCardNo></BeneficiaryCardNo>
+    <BeneficiaryBirthDate></BeneficiaryBirthDate>
+    <BeneficiaryMobile></BeneficiaryMobile>
+    <BeneficiaryNeedSMS></BeneficiaryNeedSMS>
+    <BeneficiaryEmail></BeneficiaryEmail>
+    <BeneficiaryRelation></BeneficiaryRelation>
+    <BeneficiaryRate></BeneficiaryRate>
+   </Beneficiary>
+  </Beneficiarys>
+  <Extend1>
+    <IsEnglish>T</IsEnglish>
+  </Extend1>
+  
+ </TransData>
+ <TransSignature></TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-2:83 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+<ApplyRequest>
+ <TransData>
+  <TransID>$GetExcelData("TransID")</TransID>
+  <MerchantNo>Ctrip</MerchantNo>
+  <TransTime>20160502161619</TransTime>
+  <OrderID>12222SDFDSSFDS0</OrderID>
+  <ProductCode>$GetExcelData("ProductCode")</ProductCode>
+  <EffectDate>$GetExcelData("EffectDate")</EffectDate> 
+  <EffectTime>$GetExcelData("EffectTime")</EffectTime> 
+  <ExpiryDate>$GetExcelData("ExpiryDate")</ExpiryDate> 
+  <ExpiryTime>$GetExcelData("ExpiryTime")</ExpiryTime> 
+  <OwnerName>$GetExcelData("InsuredName")</OwnerName>
+  <CardType>$GetExcelData("InsuredCardType")</CardType>
+  <CardNo>$GetExcelData("InsuredCardNo")</CardNo>
+  <BirthDate>$GetExcelData("InsuredBirthDate")</BirthDate>
+  <Mobile>$GetExcelData("InsuredMobile")</Mobile>
+  <NeedSMS>$GetExcelData("InsuredNeedSMS")</NeedSMS>
+  <Email>$GetExcelData("InsuredEmail")</Email>
+  <InsuranceNum>1</InsuranceNum>
+  <FlightNo>MU51045</FlightNo>
+  <DepartureCity>PEG</DepartureCity>
+  <DepartureTime>20160503155000</DepartureTime>
+  <ArrivalCity>HKAA</ArrivalCity>
+  <ArrivalTime>20160503175000</ArrivalTime>  
+  <ProposerName>$GetExcelData("ProposerName")</ProposerName>  
+  <ProposerCardType>$GetExcelData("ProposerCardType")</ProposerCardType> 
+  <ProposerCardNo>$GetExcelData("ProposerCardNo")</ProposerCardNo> 
+  <ProposerBirthDate>$GetExcelData("ProposerBirthDate")</ProposerBirthDate> 
+  <ProposerMobile>$GetExcelData("ProposerMobile")</ProposerMobile>
+  <ProposerNeedSMS>$GetExcelData("ProposerNeedSMS")</ProposerNeedSMS> 
+  <ProposerEmail>$GetExcelData("ProposerEmail")</ProposerEmail> 
+  <ProposerRelation>00</ProposerRelation>
+  <Beneficiarys>
+   <Beneficiary>
+    <SN>1</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>
+   <Beneficiary>
+    <SN>2</SN>
+    <BeneficiaryName/>
+    <BeneficiaryCardType/>
+    <BeneficiaryCardNo/>
+    <BeneficiaryBirthDate/>   
+    <BeneficiaryMobile/> 
+    <BeneficiaryEmail/> 
+    <BeneficiaryRelation/> 
+    <BeneficiaryRate/>
+   </Beneficiary>  
+  </Beneficiarys> 
+  <Extend1>
+  <IsEnglish>F</IsEnglish>
+  <Premium>25</Premium>
+  </Extend1>
+ </TransData>
+ <TransSignature>
+</TransSignature>
+</ApplyRequest>
+2017-03-22 17:58:29  [ pool-1-thread-33:83 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\iyb出单(3).xlsx用例集开关 未包含 高端医疗出单
+2017-03-22 17:58:29  [ pool-1-thread-33:107 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值

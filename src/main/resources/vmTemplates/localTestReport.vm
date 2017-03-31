@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<style type="text/css">
+		a                   {color: #204a87;}
+		a:visited           {color: #5c3566;}
+		body                {font-family: Microsoft YaHei, SimHei,STHeiti Light, STHeiti;}
+		h1                  {font-family: Microsoft YaHei, SimHei,STHeiti Light, STHeiti;margin: 5px;}
+		h2                  {font-family: Microsoft YaHei, SimHei,STHeiti Light, STHeiti;}
+		.header             {font-weight: bold; background-color: #f0f0f0;}
+		.totalLabel         {font-weight: bold; background-color: #ffffff;}
+		td.totalLabel       {border-bottom: 0; border-left: 0;}
+		.Passed             {background-color: inherit; color: #12e312; font-weight: bold;}
+		.Skiped            {background-color: inherit; color: #ddbb00; font-weight: bold;}
+		.Failed             {background-color: inherit; color: #ef2929; font-weight: bold;}
+		.pass {background-color: #12e312}
+		.skip {background-color: #ffff00}
+		.fail {background-color: #ff0000}
+		.failedConfig       {background-color: #ef2929; font-weight: bold; color: #ffffff}
+		.skippedConfig      {background-color: #ddbb00; font-weight: bold; color: #ffffff}
+		.suite              {background-color: #f0f0f0;}
+		.test               {background-color: inherit;}
+		.group              {background-color: #f0f0f0; color: #000000; font-weight: bold;}
+		.suiteLinks         {font-size: 0.9em; font-weight: normal;}
+		.suiteLinks a       {color: #204a87; margin-left: .5em;}
+		.suiteLinks a:visited {color: #5c3566; margin-left: .5em;}
+		.test .passed       {background-color: inherit;}
+		.test .skipped      {background-color: inherit;}
+		.test .failed       {background-color: inherit;}
+		.header.suite       {border: 1px #b0b0b0 solid; margin-top: 0;}
+		#suites .test       {border: 1px #b0b0b0 solid; margin-top: 0;}
+		#suites             {border-collapse: collapse; border: 0;}
+		#suites tr          {border-collapse: collapse; border: 0;}
+		#suites td          {border-collapse: collapse; border: 1px #b0b0b0 solid;}
+		#suites th          {border-collapse: collapse; border: 1px #b0b0b0 solid;}
+		.zero               {background-color: inherit;}
+		.resultsTable       {border-collapse: collapse; border: 0; width:100%;word-break:break-all}
+		.resultsTable tr    {border-collapse: collapse; border: 0;}
+		.resultsTable td    {border-collapse: collapse; border: 1px #b0b0b0 solid;align:center;}
+		.resultsTable th    {border-collapse: collapse; border: 1px #b0b0b0 solid;}
+		.configTable        {border: 1px solid #800000; background: #ffffdd; color: #800000; margin-bottom: 1.5em;}
+		.successIndicator   {color: #3465a4;}
+		#log                {font-family: Courier New, monospace;}
+		.overviewTable      {border-collapse: collapse; border: 0; width:30%;}
+		.overviewTable tr   {border-collapse: collapse; border: 0;}
+		.overviewTable td   {border-collapse: collapse; border: 1px #b0b0b0 solid; text-align:center; font-size:1.2em;}
+		.overviewTable th   {border-collapse: collapse; border: 1px #b0b0b0 solid; font-size:1.2em;}
+		.blank {height: 20px}
+		.page_details {display: none;}
+		.page_details_expanded {display: block;display: table-row;}
+	</style>
+	<script language="JavaScript">
+		function expand(details_id)
+		{
+
+			document.getElementById(details_id).className = "page_details_expanded";
+		}
+
+		function collapse(details_id)
+		{
+
+			document.getElementById(details_id).className = "page_details";
+		}
+
+		function change(details_id)
+		{
+			if(document.getElementById(details_id+"_details").className == "page_details")
+			{
+				document.getElementById(details_id).innerHTML = "收起";
+				expand(details_id+"_details");
+			}
+			else
+			{
+				document.getElementById(details_id).innerHTML = "详情";
+				collapse(details_id+"_details");
+			} 
+		}
+	</script>
+</head>
+<body>
+	<h1>$relativeData.getReportFileName()</h1>
+	<table width="100%">
+		<tr>
+			<td align="left">报告生成时间：$reportTime</td>
+			<td align="right">Designed By <a href="#">ZA-QA</a></td>
+		</tr>
+	</table>
+	<hr size="1">
+	<div class="blank">&nbsp;</div>
+	开始时间：$relativeData.getBeginTime()<br/>
+	结束时间：$relativeData.getEndTime()<br/>
+	耗时：$relativeData.getDuringTime()<br/>
+	<div class="blank">&nbsp;</div>
+	<div id="summary">
+		<table class="overviewTable">
+			<tr>
+				<th class="suite">案例状态</th>
+				<th class="suite">统计情况</th>
+				<th class="suite">案例数量</th>
+			</tr>
+			<tr>
+				<td>passed</td>
+				<td class="pass">$relativeData.getPassedPercent()</td>
+				<td class="pass">$relativeData.getPassedNum()</td>
+			</tr>
+			<tr>
+				<td>failed</td>
+				<td class="fail">$relativeData.getFailedPercent()</td>
+				<td class="fail">$relativeData.getFailedNum()</td>
+			</tr>
+			<tr>
+				<td>skipped</td>
+				<td class="skip">$relativeData.getSkippedPercent()</td>
+				<td class="skip">$relativeData.getSkippedNum()</td>
+			</tr>
+			<tr>
+				<td>all</td>
+				<td>/</td>
+				<td>$relativeData.getCaseNum()</td>
+			</tr>
+		</table>
+	</div>
+	<div class="blank">&nbsp;</div>
+	<div class="blank">&nbsp;</div>
+	<div>
+		<table class="resultsTable">
+			<tbody>
+				<tr>
+					<th class="suite">序号</th>
+					<th class="suite">用例集</th>
+					<th class="suite">用例编号</th>
+					<th class="suite">用例描述</th>
+					<th class="suite">接口编号</th>
+					<th class="suite">服务名</th>
+					<th class="suite">环境</th>
+					<th class="suite">数据</th>
+					<th class="suite">结果</th>
+				</tr>
+				#set ($caseCount=1)
+				#foreach($caseReportDTO in $resultList)
+					#set ($status=$caseReportDTO.getTest_result())
+					#if("NotRun" != $status)
+						<tr>
+							<td align="center">$caseCount</td>
+							<td align="center">$caseReportDTO.getCaseDataDTO().getCaseListNo()</td>
+							<td align="center">$caseReportDTO.getCaseDataDTO().getCaseNo()</td>
+							<td align="center">$caseReportDTO.getCaseDataDTO().getCaseDesc()</td>
+							<td align="center">$caseReportDTO.getCaseDataDTO().getApiNo()</td>
+							<td align="center">
+								 #if("OpenAPI" !=$caseReportDTO.getCaseDataDTO().getType())
+									$caseReportDTO.getCaseDataDTO().getResourcePath()
+								#else
+									$caseReportDTO.getCaseDataDTO().getServiceName()
+								#end
+							</td>
+							<td align="center">$caseReportDTO.getCaseDataDTO().getListflag()</td>
+							<td align="center">
+								<a id="case_${velocityCount}" href="javascript:change('case_${velocityCount}')">详情</a>
+							</td>
+							<td align="center" class="${status}ed">$status</td>
+						</tr>
+						<tr class="page_details" id="case_${velocityCount}_details">
+							<td colspan="9">
+								<div>
+									<table width="100%" cellspacing="1" cellpadding="1" border="0">
+										<tbody>
+											<tr>
+												<th class="suite" width="30%">入参</th>
+												<th class="suite" width="30%">返回</th>
+												<th class="suite" width="20%">错误信息</th>
+												<th class="suite" width="20%">检查点</th>
+											</tr>
+											<tr>
+												<td align="left">$caseReportDTO.getPayloaddata().replaceAll("\n", "<br />")</td>
+												<td align="left">$caseReportDTO.getReponse()</td>
+												<td align="left">$caseReportDTO.getErrorInfo()</td>
+												<td align="left">$caseReportDTO.getCheckpoint()</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+							</td>
+						</tr>
+						#set($caseCount=$caseCount+1)
+					#end
+				#end
+			</tbody>
+		</table>
+	</div>
+</body>
+</html>

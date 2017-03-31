@@ -1,0 +1,542 @@
+2017-03-21 14:51:55  [ main:0 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险1
+2017-03-21 14:51:55  [ main:3 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do4
+2017-03-21 14:51:55  [ main:4 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do5
+2017-03-21 14:51:55  [ main:5 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险2
+2017-03-21 14:51:55  [ main:7 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险3
+2017-03-21 14:51:55  [ main:8 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do6
+2017-03-21 14:51:55  [ main:9 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险4
+2017-03-21 14:51:55  [ main:9 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险5
+2017-03-21 14:51:55  [ main:10 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险5
+2017-03-21 14:51:55  [ main:11 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航延险
+2017-03-21 14:51:55  [ main:11 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险1
+2017-03-21 14:51:55  [ main:12 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险2
+2017-03-21 14:51:55  [ main:13 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程账户安全险
+2017-03-21 14:51:55  [ main:14 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险3
+2017-03-21 14:51:55  [ main:14 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险4
+2017-03-21 14:51:55  [ main:15 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险5
+2017-03-21 14:51:55  [ main:17 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-21 14:51:55  [ main:19 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险1
+2017-03-21 14:51:55  [ main:21 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程铁路意外综合保险
+2017-03-21 14:51:55  [ main:21 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险2
+2017-03-21 14:51:55  [ main:22 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do1
+2017-03-21 14:51:55  [ main:23 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\同程WIFI取消险自动化预发用例.xlsx用例集开关 未包含 同程WIFI取消险核保出单
+2017-03-21 14:51:55  [ main:24 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险3
+2017-03-21 14:51:55  [ main:25 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do2
+2017-03-21 14:51:55  [ main:25 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险4
+2017-03-21 14:51:55  [ main:26 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do3
+2017-03-21 14:51:55  [ main:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-1:36 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险1
+2017-03-21 14:51:55  [ pool-1-thread-15:36 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险4
+2017-03-21 14:51:55  [ pool-1-thread-16:38 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险5
+2017-03-21 14:51:55  [ pool-1-thread-19:38 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程铁路意外综合保险
+2017-03-21 14:51:55  [ pool-1-thread-12:39 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险2
+2017-03-21 14:51:55  [ pool-1-thread-20:39 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险2
+2017-03-21 14:51:55  [ pool-1-thread-24:40 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do2
+2017-03-21 14:51:55  [ pool-1-thread-28:40 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-6:41 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do6
+2017-03-21 14:51:55  [ pool-1-thread-8:41 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险5
+2017-03-21 14:51:55  [ pool-1-thread-4:41 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险2
+2017-03-21 14:51:55  [ pool-1-thread-14:40 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险3
+2017-03-21 14:51:55  [ pool-1-thread-26:42 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do3
+2017-03-21 14:51:55  [ pool-1-thread-3:42 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do5
+2017-03-21 14:51:55  [ pool-1-thread-23:42 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险3
+2017-03-21 14:51:55  [ pool-1-thread-2:43 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do4
+2017-03-21 14:51:55  [ pool-1-thread-10:43 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航延险
+2017-03-21 14:51:55  [ pool-1-thread-7:43 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险4
+2017-03-21 14:51:55  [ pool-1-thread-11:46 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险1
+2017-03-21 14:51:55  [ pool-1-thread-18:46 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险1
+2017-03-21 14:51:55  [ pool-1-thread-22:46 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\同程WIFI取消险自动化预发用例.xlsx用例集开关 未包含 同程WIFI取消险核保出单
+2017-03-21 14:51:55  [ pool-1-thread-1:59 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险1
+2017-03-21 14:51:55  [ pool-1-thread-15:61 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险4
+2017-03-21 14:51:55  [ pool-1-thread-16:62 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险5
+2017-03-21 14:51:55  [ pool-1-thread-19:65 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程铁路意外综合保险
+2017-03-21 14:51:55  [ pool-1-thread-12:66 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险2
+2017-03-21 14:51:55  [ pool-1-thread-20:66 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险2
+2017-03-21 14:51:55  [ pool-1-thread-24:67 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do2
+2017-03-21 14:51:55  [ pool-1-thread-28:67 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-28:67 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-28:68 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-28:68 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-28:70 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-6:70 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do6
+2017-03-21 14:51:55  [ pool-1-thread-14:71 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险3
+2017-03-21 14:51:55  [ pool-1-thread-4:71 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险2
+2017-03-21 14:51:55  [ pool-1-thread-8:70 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险5
+2017-03-21 14:51:55  [ pool-1-thread-28:70 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-28:73 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-28:73 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-28:73 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程机票旅行险
+2017-03-21 14:51:55  [ pool-1-thread-26:71 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do3
+2017-03-21 14:51:55  [ pool-1-thread-3:74 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do5
+2017-03-21 14:51:55  [ pool-1-thread-23:74 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险3
+2017-03-21 14:51:55  [ pool-1-thread-2:75 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do4
+2017-03-21 14:51:55  [ pool-1-thread-10:76 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航延险
+2017-03-21 14:51:55  [ pool-1-thread-10:76 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航延险
+2017-03-21 14:51:55  [ pool-1-thread-10:76 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航延险
+2017-03-21 14:51:55  [ pool-1-thread-10:76 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航延险
+2017-03-21 14:51:55  [ pool-1-thread-10:77 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航延险
+2017-03-21 14:51:55  [ pool-1-thread-7:77 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险4
+2017-03-21 14:51:55  [ pool-1-thread-11:78 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险1
+2017-03-21 14:51:55  [ pool-1-thread-18:78 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险1
+2017-03-21 14:51:55  [ pool-1-thread-22:80 ] - [ INFO ]  ---------当前用例执行开始，用例编号:TestCase01,接口类型: OpenAPI
+2017-03-21 14:51:55  [ pool-1-thread-5:82 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险3
+2017-03-21 14:51:55  [ pool-1-thread-5:82 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程酒店取消险3
+2017-03-21 14:51:55  [ pool-1-thread-9:82 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险5
+2017-03-21 14:51:55  [ pool-1-thread-9:83 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程航空意外险5
+2017-03-21 14:51:55  [ pool-1-thread-13:83 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程账户安全险
+2017-03-21 14:51:55  [ pool-1-thread-17:84 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-21 14:51:55  [ pool-1-thread-17:84 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-21 14:51:55  [ pool-1-thread-17:84 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-21 14:51:55  [ pool-1-thread-17:85 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-21 14:51:55  [ pool-1-thread-17:86 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-21 14:51:55  [ pool-1-thread-17:86 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-21 14:51:55  [ pool-1-thread-17:86 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-21 14:51:55  [ pool-1-thread-17:86 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程迪斯尼1
+2017-03-21 14:51:55  [ pool-1-thread-21:87 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do1
+2017-03-21 14:51:55  [ pool-1-thread-21:87 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程apply.do1
+2017-03-21 14:51:55  [ pool-1-thread-25:88 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险4
+2017-03-21 14:51:55  [ pool-1-thread-25:88 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\携程全产品.xlsx用例集开关 未包含 携程旅游险4
+2017-03-21 14:51:55  [ pool-1-thread-27:89 ] - [ INFO ]  ---------当前用例执行开始，用例编号:case001,接口类型: HTTP
+2017-03-21 14:51:55  [ pool-1-thread-22:94 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=@RString("l","10")
+insuredDate=2017-03-14 09:16:16
+effectDate=2017-03-21 00:00:00
+holderName=@RName()
+holderCertiType=I
+holderCertiNo=@RIdWithSpecifiedAge("37")
+holderBirth=19800101
+holderPhoneNo=13425180649
+holderEmail=wb_yemeie@zhongan.com
+insurantName=@RName()
+insurantCertiType=I
+insurantCertiNo=@RIdWithSpecifiedAge("37")
+insurantBirth=19800101
+insurantPhoneNo=13425180649
+insurantEmail=wb_yemeie@zhongan.com
+jobInfo=
+relation=
+2017-03-21 14:51:55  [ pool-1-thread-27:96 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+X-Requested-With=XMLHttpRequest|assortmentId=51252513&premium_params[AMOUNT][key]=AMOUNT&premium_params[AMOUNT][value]=1000000&premium_params[AMOUNT][type]=2&premium_params[AMOUNT][belong]=4&premium_params[EXPIRES][key]=EXPIRES&premium_params[EXPIRES][value]=1年&premium_params[EXPIRES][type]=3&premium_params[EXPIRES][belong]=3&premium_params[INSURANCE][key]=INSURANCE&premium_params[INSURANCE][type]=3&premium_params[INSURANCE][belong]=2&premium_params[BIRTHDAY][key]=BIRTHDAY&premium_params[BIRTHDAY][type]=3&premium_params[BIRTHDAY][belong]=2&premium_params[INSURANCE][value]=$GetExcelData("hasSheBao")&premium_params[BIRTHDAY][value]=$GetExcelData("BIRTHDAY")
+2017-03-21 14:51:55  [ pool-1-thread-22:168 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:55  [ pool-1-thread-27:200 ] - [ INFO ]  表达式: [GetExcelData("hasSheBao")]开始解析...
+2017-03-21 14:51:55  [ pool-1-thread-27:200 ] - [ INFO ]  表达式: [GetExcelData("BIRTHDAY")]开始解析...
+2017-03-21 14:51:55  [ pool-1-thread-27:202 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","-82/0/0")]开始解析...
+2017-03-21 14:51:55  [ pool-1-thread-22:223 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:55  [ pool-1-thread-27:227 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+X-Requested-With=XMLHttpRequest|assortmentId=51252513&premium_params[AMOUNT][key]=AMOUNT&premium_params[AMOUNT][value]=1000000&premium_params[AMOUNT][type]=2&premium_params[AMOUNT][belong]=4&premium_params[EXPIRES][key]=EXPIRES&premium_params[EXPIRES][value]=1年&premium_params[EXPIRES][type]=3&premium_params[EXPIRES][belong]=3&premium_params[INSURANCE][key]=INSURANCE&premium_params[INSURANCE][type]=3&premium_params[INSURANCE][belong]=2&premium_params[BIRTHDAY][key]=BIRTHDAY&premium_params[BIRTHDAY][type]=3&premium_params[BIRTHDAY][belong]=2&premium_params[INSURANCE][value]=Y&premium_params[BIRTHDAY][value]=1935-03-21
+2017-03-21 14:51:55  [ pool-1-thread-27:230 ] - [ INFO ]  接口访问地址: http://mp.zhongan.com/health/iYunBao/common/apiGetPremium.html
+2017-03-21 14:51:55  [ pool-1-thread-22:249 ] - [ INFO ]  表达式: [RIdWithSpecifiedAge("37")]开始解析...
+2017-03-21 14:51:55  [ pool-1-thread-22:332 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:55  [ pool-1-thread-22:341 ] - [ INFO ]  表达式: [RIdWithSpecifiedAge("37")]开始解析...
+2017-03-21 14:51:55  [ pool-1-thread-22:344 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=nurzjnlnao
+insuredDate=2017-03-14 09:16:16
+effectDate=2017-03-21 00:00:00
+holderName=王欣悦
+holderCertiType=I
+holderCertiNo=611000198003211593
+holderBirth=19800101
+holderPhoneNo=13425180649
+holderEmail=wb_yemeie@zhongan.com
+insurantName=张乐圣
+insurantCertiType=I
+insurantCertiNo=62102219800321185X
+insurantBirth=19800101
+insurantPhoneNo=13425180649
+insurantEmail=wb_yemeie@zhongan.com
+jobInfo=
+relation=
+2017-03-21 14:51:55  [ pool-1-thread-22:536 ] - [ INFO ]  Excel参数JSON: {"effectDate":"2017-03-21 00:00:00","holderBirth":"19800101","holderCertiNo":"611000198003211593","holderCertiType":"I","holderEmail":"wb_yemeie@zhongan.com","holderName":"王欣悦","holderPhoneNo":"13425180649","insurantBirth":"19800101","insurantCertiNo":"62102219800321185X","insurantCertiType":"I","insurantEmail":"wb_yemeie@zhongan.com","insurantName":"张乐圣","insurantPhoneNo":"13425180649","insuredDate":"2017-03-14 09:16:16","jobInfo":"","productKey":"ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9","relation":"","transactionId":"nurzjnlnao"}
+2017-03-21 14:51:56  [ pool-1-thread-22:1687 ] - [ INFO ]  bizcontent: {"ePolicyUrl":"http://114.55.158.217:6080/open/common/downloadFileScreen/downloadDoc.do?data=b5ee607caa4147b62638c66fd68295ba5903bfdfec9a2c922a23a614ad61873c7cac5da1b2a9ddbb","effectDate":"2017-03-21 00:00:00","expiryDate":"2017-03-21 23:59:59","failureReason":"","policyNo":"824360020030460015","premium":"5","result":"0","sumInsured":"50","transactionId":"nurzjnlnao"}
+2017-03-21 14:51:56  [ pool-1-thread-22:1701 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:TestCase01---------
+2017-03-21 14:51:56  [ pool-1-thread-22:1701 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\同程WIFI取消险自动化预发用例.xlsx用例集开关 未包含 同程WIFI取消险核保出单
+2017-03-21 14:51:56  [ pool-1-thread-22:1701 ] - [ INFO ]  ---------当前用例执行开始，用例编号:TestCase02,接口类型: OpenAPI
+2017-03-21 14:51:56  [ pool-1-thread-22:1701 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=@RString("l","10")
+insuredDate=2017-03-14 09:16:16
+effectDate=2017-03-21 00:00:00
+holderName=@RName()
+holderCertiType=I
+holderCertiNo=@RIdWithSpecifiedAge("37")
+holderBirth=19800101
+holderPhoneNo=13425180649
+holderEmail=wb_yemeie@zhongan.com
+insurantName=@RName()
+insurantCertiType=I
+insurantCertiNo=@RIdWithSpecifiedAge("37")
+insurantBirth=19800101
+insurantPhoneNo=13425180649
+insurantEmail=wb_yemeie@zhongan.com
+jobInfo=
+relation=
+2017-03-21 14:51:56  [ pool-1-thread-22:1702 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:56  [ pool-1-thread-22:1703 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:56  [ pool-1-thread-22:1705 ] - [ INFO ]  表达式: [RIdWithSpecifiedAge("37")]开始解析...
+2017-03-21 14:51:56  [ pool-1-thread-22:1707 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:56  [ pool-1-thread-22:1707 ] - [ INFO ]  表达式: [RIdWithSpecifiedAge("37")]开始解析...
+2017-03-21 14:51:56  [ pool-1-thread-22:1707 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=jrixhrhpol
+insuredDate=2017-03-14 09:16:16
+effectDate=2017-03-21 00:00:00
+holderName=杭和畅
+holderCertiType=I
+holderCertiNo=130107198003215759
+holderBirth=19800101
+holderPhoneNo=13425180649
+holderEmail=wb_yemeie@zhongan.com
+insurantName=张乐珍
+insurantCertiType=I
+insurantCertiNo=510115198003217771
+insurantBirth=19800101
+insurantPhoneNo=13425180649
+insurantEmail=wb_yemeie@zhongan.com
+jobInfo=
+relation=
+2017-03-21 14:51:56  [ pool-1-thread-22:1708 ] - [ INFO ]  Excel参数JSON: {"effectDate":"2017-03-21 00:00:00","holderBirth":"19800101","holderCertiNo":"130107198003215759","holderCertiType":"I","holderEmail":"wb_yemeie@zhongan.com","holderName":"杭和畅","holderPhoneNo":"13425180649","insurantBirth":"19800101","insurantCertiNo":"510115198003217771","insurantCertiType":"I","insurantEmail":"wb_yemeie@zhongan.com","insurantName":"张乐珍","insurantPhoneNo":"13425180649","insuredDate":"2017-03-14 09:16:16","jobInfo":"","productKey":"ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9","relation":"","transactionId":"jrixhrhpol"}
+2017-03-21 14:51:57  [ pool-1-thread-22:2147 ] - [ INFO ]  bizcontent: {"ePolicyUrl":"http://114.55.158.217:6080/open/common/downloadFileScreen/downloadDoc.do?data=b5ee607caa4147b62638c66fd68295bace9fdf19d2eb79a6cd25fef5ce28cda632897420bbc754a6","effectDate":"2017-03-21 00:00:00","expiryDate":"2017-03-21 23:59:59","failureReason":"","policyNo":"824360020030460016","premium":"5","result":"0","sumInsured":"50","transactionId":"jrixhrhpol"}
+2017-03-21 14:51:57  [ pool-1-thread-22:2151 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:TestCase02---------
+2017-03-21 14:51:57  [ pool-1-thread-22:2152 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\同程WIFI取消险自动化预发用例.xlsx用例集开关 未包含 同程WIFI取消险核保出单
+2017-03-21 14:51:57  [ pool-1-thread-22:2152 ] - [ INFO ]  ---------当前用例执行开始，用例编号:TestCase03,接口类型: OpenAPI
+2017-03-21 14:51:57  [ pool-1-thread-22:2153 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+productCode=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+channelOrderNo=@PayloadDepend("TestCase02","transactionId")
+policyNo=@ResponseDepend("TestCase02","policyNo")
+quitTime=20170320100001
+quitReason=
+extraInfo=
+2017-03-21 14:51:57  [ pool-1-thread-22:2154 ] - [ INFO ]  表达式: [PayloadDepend("TestCase02","transactionId")]开始解析...
+2017-03-21 14:51:57  [ pool-1-thread-22:2159 ] - [ INFO ]  表达式: [ResponseDepend("TestCase02","policyNo")]开始解析...
+2017-03-21 14:51:57  [ pool-1-thread-22:2165 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+productCode=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+channelOrderNo=jrixhrhpol
+policyNo=824360020030460016
+quitTime=20170320100001
+quitReason=
+extraInfo=
+2017-03-21 14:51:57  [ pool-1-thread-22:2166 ] - [ INFO ]  Excel参数JSON: {"channelOrderNo":"jrixhrhpol","extraInfo":"","policyNo":"824360020030460016","productCode":"ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9","quitReason":"","quitTime":"20170320100001"}
+2017-03-21 14:51:57  [ pool-1-thread-22:2379 ] - [ INFO ]  bizcontent: {"channelOrderNo":"jrixhrhpol","quitErrorCode":"02","quitErrorDetail":"退保失败,保单号：824360020030460016的保单信息不是核保通过状态或者不存在","quitResultType":"N"}
+2017-03-21 14:51:57  [ pool-1-thread-22:2380 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:TestCase03---------
+2017-03-21 14:51:57  [ pool-1-thread-22:2381 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\同程WIFI取消险自动化预发用例.xlsx用例集开关 未包含 同程WIFI取消险核保出单
+2017-03-21 14:51:57  [ pool-1-thread-22:2381 ] - [ INFO ]  ---------当前用例执行开始，用例编号:TestCase04,接口类型: OpenAPI
+2017-03-21 14:51:57  [ pool-1-thread-22:2381 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=@RString("l","10")
+insuredDate=2017-03-14 09:16:16
+effectDate=2017-03-21 00:00:00
+holderName=@RName()
+holderCertiType=I
+holderCertiNo=@PayloadDepend("TestCase01","holderCertiNo")
+holderBirth=19800101
+holderPhoneNo=13425180649
+holderEmail=wb_yemeie@zhongan.com
+insurantName=@RName()
+insurantCertiType=I
+insurantCertiNo=@PayloadDepend("TestCase01","insurantCertiNo")
+insurantBirth=19800101
+insurantPhoneNo=13425180649
+insurantEmail=wb_yemeie@zhongan.com
+jobInfo=
+relation=
+2017-03-21 14:51:57  [ pool-1-thread-22:2383 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:57  [ pool-1-thread-22:2385 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:57  [ pool-1-thread-22:2389 ] - [ INFO ]  表达式: [PayloadDepend("TestCase01","holderCertiNo")]开始解析...
+2017-03-21 14:51:57  [ pool-1-thread-22:2394 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:57  [ pool-1-thread-22:2394 ] - [ INFO ]  表达式: [PayloadDepend("TestCase01","insurantCertiNo")]开始解析...
+2017-03-21 14:51:57  [ pool-1-thread-22:2396 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=yjabgxrcze
+insuredDate=2017-03-14 09:16:16
+effectDate=2017-03-21 00:00:00
+holderName=张晓兰
+holderCertiType=I
+holderCertiNo=611000198003211593
+holderBirth=19800101
+holderPhoneNo=13425180649
+holderEmail=wb_yemeie@zhongan.com
+insurantName=张梦山
+insurantCertiType=I
+insurantCertiNo=62102219800321185X
+insurantBirth=19800101
+insurantPhoneNo=13425180649
+insurantEmail=wb_yemeie@zhongan.com
+jobInfo=
+relation=
+2017-03-21 14:51:57  [ pool-1-thread-22:2397 ] - [ INFO ]  Excel参数JSON: {"effectDate":"2017-03-21 00:00:00","holderBirth":"19800101","holderCertiNo":"611000198003211593","holderCertiType":"I","holderEmail":"wb_yemeie@zhongan.com","holderName":"张晓兰","holderPhoneNo":"13425180649","insurantBirth":"19800101","insurantCertiNo":"62102219800321185X","insurantCertiType":"I","insurantEmail":"wb_yemeie@zhongan.com","insurantName":"张梦山","insurantPhoneNo":"13425180649","insuredDate":"2017-03-14 09:16:16","jobInfo":"","productKey":"ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9","relation":"","transactionId":"yjabgxrcze"}
+2017-03-21 14:51:58  [ pool-1-thread-22:2737 ] - [ INFO ]  bizcontent: {"failureReason":"被保险人<62102219800321185X>已经存在有效保单，保单号为<824360020030460015>，不能重复购买。错误代码：<UWERR009>。","result":"1","transactionId":"yjabgxrcze"}
+2017-03-21 14:51:58  [ pool-1-thread-22:2739 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:TestCase04---------
+2017-03-21 14:51:58  [ pool-1-thread-22:2739 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\同程WIFI取消险自动化预发用例.xlsx用例集开关 未包含 同程WIFI取消险核保出单
+2017-03-21 14:51:58  [ pool-1-thread-22:2740 ] - [ INFO ]  ---------当前用例执行开始，用例编号:TestCase05,接口类型: OpenAPI
+2017-03-21 14:51:58  [ pool-1-thread-22:2740 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=@RString("l","10")
+insuredDate=2017-03-14 00:16:16
+effectDate=2017-03-15 16:00:00
+holderName=@RName()
+holderCertiType=P
+holderCertiNo=reijooi
+holderBirth=1980-01-01
+holderPhoneNo=13425180649
+holderEmail=
+insurantName=@RName()
+insurantCertiType=P
+insurantCertiNo=@RString("l","10")
+insurantBirth=1980-01-01
+insurantPhoneNo=13425180649
+insurantEmail=
+jobInfo=
+relation=
+2017-03-21 14:51:58  [ pool-1-thread-22:2755 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:2757 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:2775 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:2776 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:2776 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=lbvghnfodr
+insuredDate=2017-03-14 00:16:16
+effectDate=2017-03-15 16:00:00
+holderName=校向松
+holderCertiType=P
+holderCertiNo=reijooi
+holderBirth=1980-01-01
+holderPhoneNo=13425180649
+holderEmail=
+insurantName=渠叶飞
+insurantCertiType=P
+insurantCertiNo=tpyifotkwh
+insurantBirth=1980-01-01
+insurantPhoneNo=13425180649
+insurantEmail=
+jobInfo=
+relation=
+2017-03-21 14:51:58  [ pool-1-thread-22:2776 ] - [ INFO ]  Excel参数JSON: {"effectDate":"2017-03-15 16:00:00","holderBirth":"1980-01-01","holderCertiNo":"reijooi","holderCertiType":"P","holderEmail":"","holderName":"校向松","holderPhoneNo":"13425180649","insurantBirth":"1980-01-01","insurantCertiNo":"tpyifotkwh","insurantCertiType":"P","insurantEmail":"","insurantName":"渠叶飞","insurantPhoneNo":"13425180649","insuredDate":"2017-03-14 00:16:16","jobInfo":"","productKey":"ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9","relation":"","transactionId":"lbvghnfodr"}
+2017-03-21 14:51:58  [ pool-1-thread-22:3133 ] - [ INFO ]  bizcontent: {"ePolicyUrl":"http://114.55.158.217:6080/open/common/downloadFileScreen/downloadDoc.do?data=b5ee607caa4147b62638c66fd68295baa19f0f660a7d1bbda25b3ca030ba7ae5","effectDate":"2017-03-15 16:00:00","expiryDate":"2017-03-16 15:59:59","failureReason":"","policyNo":"824360020030460017","premium":"5","result":"0","sumInsured":"50","transactionId":"lbvghnfodr"}
+2017-03-21 14:51:58  [ pool-1-thread-22:3135 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:TestCase05---------
+2017-03-21 14:51:58  [ pool-1-thread-22:3135 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\同程WIFI取消险自动化预发用例.xlsx用例集开关 未包含 同程WIFI取消险核保出单
+2017-03-21 14:51:58  [ pool-1-thread-22:3144 ] - [ INFO ]  ---------当前用例执行开始，用例编号:TestCase06,接口类型: 
+2017-03-21 14:51:58  [ pool-1-thread-22:3144 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=@RString("l","10")
+insuredDate=2017-03-14 00:16:16
+effectDate=2017-03-15 16:00:00
+holderName=@RName()
+holderCertiType=P
+holderCertiNo=@RString("l","10")
+holderBirth=1980-01-01
+holderPhoneNo=13425180649
+holderEmail=
+insurantName=@RName()
+insurantCertiType=P
+insurantCertiNo=reijooi
+insurantBirth=1980-01-01
+insurantPhoneNo=13425180649
+insurantEmail=
+jobInfo=
+relation=
+2017-03-21 14:51:58  [ pool-1-thread-22:3145 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3146 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3147 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3148 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3148 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=xtzizxkoit
+insuredDate=2017-03-14 00:16:16
+effectDate=2017-03-15 16:00:00
+holderName=碧嘉瑞
+holderCertiType=P
+holderCertiNo=rrbaaxraux
+holderBirth=1980-01-01
+holderPhoneNo=13425180649
+holderEmail=
+insurantName=王盼柳
+insurantCertiType=P
+insurantCertiNo=reijooi
+insurantBirth=1980-01-01
+insurantPhoneNo=13425180649
+insurantEmail=
+jobInfo=
+relation=
+2017-03-21 14:51:58  [ pool-1-thread-22:3148 ] - [ INFO ]  当前用例:接口类型异常,忽略,开始执行下一条
+2017-03-21 14:51:58  [ pool-1-thread-22:3150 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:TestCase06---------
+2017-03-21 14:51:58  [ pool-1-thread-22:3150 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\同程WIFI取消险自动化预发用例.xlsx用例集开关 未包含 同程WIFI取消险核保出单
+2017-03-21 14:51:58  [ pool-1-thread-22:3150 ] - [ INFO ]  ---------当前用例执行开始，用例编号:TestCase07,接口类型: OpenAPI
+2017-03-21 14:51:58  [ pool-1-thread-22:3150 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=@RString("l","10")
+insuredDate=2017-03-14 00:16:16
+effectDate=2017-03-14 16:00:00
+holderName=@RName()
+holderCertiType=P
+holderCertiNo=@RString("l","10")
+holderBirth=1980-01-01
+holderPhoneNo=13425180649
+holderEmail=
+insurantName=@RName()
+insurantCertiType=P
+insurantCertiNo=@RString("l","10")
+insurantBirth=1980-01-01
+insurantPhoneNo=13425180649
+insurantEmail=
+jobInfo=
+relation=
+2017-03-21 14:51:58  [ pool-1-thread-22:3159 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3161 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3166 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3166 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3166 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3166 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=eqeunhkdaf
+insuredDate=2017-03-14 00:16:16
+effectDate=2017-03-14 16:00:00
+holderName=王映波
+holderCertiType=P
+holderCertiNo=mikijpvgpu
+holderBirth=1980-01-01
+holderPhoneNo=13425180649
+holderEmail=
+insurantName=王依晨
+insurantCertiType=P
+insurantCertiNo=qhforaqqbh
+insurantBirth=1980-01-01
+insurantPhoneNo=13425180649
+insurantEmail=
+jobInfo=
+relation=
+2017-03-21 14:51:58  [ pool-1-thread-22:3166 ] - [ INFO ]  Excel参数JSON: {"effectDate":"2017-03-14 16:00:00","holderBirth":"1980-01-01","holderCertiNo":"mikijpvgpu","holderCertiType":"P","holderEmail":"","holderName":"王映波","holderPhoneNo":"13425180649","insurantBirth":"1980-01-01","insurantCertiNo":"qhforaqqbh","insurantCertiType":"P","insurantEmail":"","insurantName":"王依晨","insurantPhoneNo":"13425180649","insuredDate":"2017-03-14 00:16:16","jobInfo":"","productKey":"ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9","relation":"","transactionId":"eqeunhkdaf"}
+2017-03-21 14:51:58  [ pool-1-thread-22:3504 ] - [ INFO ]  bizcontent: {"failureReason":"保单生效日期2017-03-14 16:00:00不得早于:2017-03-15 00:00:00，不得晚于:2018-03-14 00:16:16.","result":"1","transactionId":"eqeunhkdaf"}
+2017-03-21 14:51:58  [ pool-1-thread-22:3506 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:TestCase07---------
+2017-03-21 14:51:58  [ pool-1-thread-22:3506 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\同程WIFI取消险自动化预发用例.xlsx用例集开关 未包含 同程WIFI取消险核保出单
+2017-03-21 14:51:58  [ pool-1-thread-22:3506 ] - [ INFO ]  ---------当前用例执行开始，用例编号:TestCase08,接口类型: OpenAPI
+2017-03-21 14:51:58  [ pool-1-thread-22:3506 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=@RString("l","10")
+insuredDate=2017-03-14 00:16:16
+effectDate=2018-03-15 16:00:00
+holderName=@RName()
+holderCertiType=P
+holderCertiNo=@RString("l","10")
+holderBirth=1980-01-01
+holderPhoneNo=13425180649
+holderEmail=
+insurantName=@RName()
+insurantCertiType=P
+insurantCertiNo=@RString("l","10")
+insurantBirth=1980-01-01
+insurantPhoneNo=13425180649
+insurantEmail=
+jobInfo=
+relation=
+2017-03-21 14:51:58  [ pool-1-thread-22:3506 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3508 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3510 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3510 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3510 ] - [ INFO ]  表达式: [RString("l","10")]开始解析...
+2017-03-21 14:51:58  [ pool-1-thread-22:3510 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+productKey=ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9
+transactionId=ljxdoegvwd
+insuredDate=2017-03-14 00:16:16
+effectDate=2018-03-15 16:00:00
+holderName=张妍芳
+holderCertiType=P
+holderCertiNo=ssslnbhmrt
+holderBirth=1980-01-01
+holderPhoneNo=13425180649
+holderEmail=
+insurantName=张寻芹
+insurantCertiType=P
+insurantCertiNo=bsbbxuojhw
+insurantBirth=1980-01-01
+insurantPhoneNo=13425180649
+insurantEmail=
+jobInfo=
+relation=
+2017-03-21 14:51:58  [ pool-1-thread-22:3510 ] - [ INFO ]  Excel参数JSON: {"effectDate":"2018-03-15 16:00:00","holderBirth":"1980-01-01","holderCertiNo":"ssslnbhmrt","holderCertiType":"P","holderEmail":"","holderName":"张妍芳","holderPhoneNo":"13425180649","insurantBirth":"1980-01-01","insurantCertiNo":"bsbbxuojhw","insurantCertiType":"P","insurantEmail":"","insurantName":"张寻芹","insurantPhoneNo":"13425180649","insuredDate":"2017-03-14 00:16:16","jobInfo":"","productKey":"ff633ad8736868f0b207a1e44f48aa1524ddb0e810b9","relation":"","transactionId":"ljxdoegvwd"}
+2017-03-21 14:51:59  [ pool-1-thread-22:3867 ] - [ INFO ]  bizcontent: {"failureReason":"保单生效日期2018-03-15 16:00:00不得早于:2017-03-15 00:00:00，不得晚于:2018-03-14 00:16:16.","result":"1","transactionId":"ljxdoegvwd"}
+2017-03-21 14:51:59  [ pool-1-thread-22:3868 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:TestCase08---------
+2017-03-21 14:52:06  [ pool-1-thread-27:11080 ] - [ ERROR ]  clientExecuteError:{}
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:139)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:155)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:284)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:261)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:165)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:272)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:124)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at com.za.qa.http.HttpResponseUtils.getResponseByKeyValueParameter(HttpResponseUtils.java:70)
+	at com.za.qa.http.HttpClientUtils.testWithKeyValue(HttpClientUtils.java:28)
+	at com.za.qa.services.ClientServices.runHttpclient(ClientServices.java:223)
+	at com.za.qa.services.ClientServices.runClient(ClientServices.java:99)
+	at com.za.qa.dto.CaseDTO.getCaseAfterRunDTO(CaseDTO.java:136)
+	at com.za.qa.services.ClientServices.run(ClientServices.java:58)
+	at com.za.qa.services.ApiCallable.call(ApiCallable.java:39)
+	at com.za.qa.services.ApiCallable.call(ApiCallable.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-03-21 14:52:06  [ pool-1-thread-27:11089 ] - [ ERROR ]  getReponseError:{}
+java.lang.NullPointerException
+	at com.za.qa.http.HttpResponseUtils.getResponseContent(HttpResponseUtils.java:261)
+	at com.za.qa.services.ClientServices.runHttpclient(ClientServices.java:224)
+	at com.za.qa.services.ClientServices.runClient(ClientServices.java:99)
+	at com.za.qa.dto.CaseDTO.getCaseAfterRunDTO(CaseDTO.java:136)
+	at com.za.qa.services.ClientServices.run(ClientServices.java:58)
+	at com.za.qa.services.ApiCallable.call(ApiCallable.java:39)
+	at com.za.qa.services.ApiCallable.call(ApiCallable.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-03-21 14:52:06  [ pool-1-thread-27:11089 ] - [ INFO ]  bizcontent: getResponseError
+2017-03-21 14:52:06  [ pool-1-thread-27:11090 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:case001---------
+2017-03-21 14:52:06  [ pool-1-thread-27:11090 ] - [ INFO ]  ---------当前用例执行开始，用例编号:case002,接口类型: HTTP
+2017-03-21 14:52:06  [ pool-1-thread-27:11090 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+X-Requested-With=XMLHttpRequest|assortmentId=51252513&premium_params[AMOUNT][key]=AMOUNT&premium_params[AMOUNT][value]=1000000&premium_params[AMOUNT][type]=2&premium_params[AMOUNT][belong]=4&premium_params[EXPIRES][key]=EXPIRES&premium_params[EXPIRES][value]=1年&premium_params[EXPIRES][type]=3&premium_params[EXPIRES][belong]=3&premium_params[INSURANCE][key]=INSURANCE&premium_params[INSURANCE][type]=3&premium_params[INSURANCE][belong]=2&premium_params[BIRTHDAY][key]=BIRTHDAY&premium_params[BIRTHDAY][type]=3&premium_params[BIRTHDAY][belong]=2&premium_params[INSURANCE][value]=$GetExcelData("hasSheBao")&premium_params[BIRTHDAY][value]=$GetExcelData("BIRTHDAY")
+2017-03-21 14:52:06  [ pool-1-thread-27:11091 ] - [ INFO ]  表达式: [GetExcelData("hasSheBao")]开始解析...
+2017-03-21 14:52:06  [ pool-1-thread-27:11091 ] - [ INFO ]  表达式: [GetExcelData("BIRTHDAY")]开始解析...
+2017-03-21 14:52:06  [ pool-1-thread-27:11092 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","-82/0/0")]开始解析...
+2017-03-21 14:52:06  [ pool-1-thread-27:11094 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+X-Requested-With=XMLHttpRequest|assortmentId=51252513&premium_params[AMOUNT][key]=AMOUNT&premium_params[AMOUNT][value]=1000000&premium_params[AMOUNT][type]=2&premium_params[AMOUNT][belong]=4&premium_params[EXPIRES][key]=EXPIRES&premium_params[EXPIRES][value]=1年&premium_params[EXPIRES][type]=3&premium_params[EXPIRES][belong]=3&premium_params[INSURANCE][key]=INSURANCE&premium_params[INSURANCE][type]=3&premium_params[INSURANCE][belong]=2&premium_params[BIRTHDAY][key]=BIRTHDAY&premium_params[BIRTHDAY][type]=3&premium_params[BIRTHDAY][belong]=2&premium_params[INSURANCE][value]=N&premium_params[BIRTHDAY][value]=1935-03-21
+2017-03-21 14:52:06  [ pool-1-thread-27:11095 ] - [ INFO ]  接口访问地址: http://mp.zhongan.com/health/iYunBao/common/apiGetPremium.html
+2017-03-21 14:52:10  [ pool-1-thread-27:15655 ] - [ INFO ]  httpReponse:{"ret":-101,"msg":"参数错误","data":[]}
+2017-03-21 14:52:10  [ pool-1-thread-27:15655 ] - [ INFO ]  bizcontent: {"ret":-101,"msg":"参数错误","data":[]}
+2017-03-21 14:52:10  [ pool-1-thread-27:15656 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:case002---------
+2017-03-21 14:52:11  [ main:16562 ] - [ INFO ]  ----程序结束运行----，程序运行时间【19254毫秒】

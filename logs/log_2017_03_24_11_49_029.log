@@ -1,0 +1,173 @@
+2017-03-24 11:49:29  [ main:0 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\iyb出单(3).xlsx用例集开关 未包含 高端医疗出单
+2017-03-24 11:49:29  [ pool-1-thread-1:0 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-24 11:49:29  [ pool-1-thread-2:9 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\iyb出单(3).xlsx用例集开关 未包含 高端医疗出单
+2017-03-24 11:49:29  [ pool-1-thread-2:11 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-24 11:49:29  [ pool-1-thread-3:10 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-24 11:49:29  [ pool-1-thread-4:13 ] - [ INFO ]  [接口配置Down]: D:\workspace\TestCase\测试\iyb出单(3).xlsx接口配置Down 未配置VERSION,取接口配置Up中的值
+2017-03-24 11:49:29  [ pool-1-thread-4:25 ] - [ INFO ]  ---------当前用例执行开始，用例编号:iyb-001,接口类型: HTTP
+2017-03-24 11:49:29  [ pool-1-thread-4:40 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+{
+  "applicant": [
+    {
+      "applicantCertType": "I",
+      "applicantName": "测试投保人",
+      "applicantCertNo": "@RIdWithBirthday(RDate("YYYYMMdd","-25/0/0"),"1")",
+      "applicantBirthday": "@RDate("YYYY-MM-dd","-25/0/0")",
+      "applicantGender": "M",
+      "applicantEmail": "1607217918@qq.com"
+    }
+  ],
+  "insured": [
+    {
+      "isOpen": "open",
+      "ensurePlan": "$GetExcelData("assortmentId")",
+      "amount": "0",
+      "insurantCertType": "I",
+      "insurance": "Y",
+      "relation": "2",
+      "insurantName": "测试配偶",
+      "insurantCertNo": "$GetExcelData("insurantCertNo")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantGender": "F"
+    }
+  ],
+  "insurance": [
+    {
+      "productName": "$GetExcelData("productName")",
+      "expires": "1年",
+      "effectiveDate": "@RDate("YYYY-MM-dd","0")",
+      "expiryDate": "@RDate("YYYY-MM-dd","1/0/-1")",
+      "person": "法定",
+      "quantity": 1
+    }
+  ],
+  "communication": [
+    {
+      "applicantMobile": "15618757067",
+      "smsCode": "888888"
+    }
+  ],
+  "assortmentId": "$GetExcelData("assortmentId")",
+  "productId": "$GetExcelData("productId")",
+  "accountId": "$GetExcelData("accountId")",
+  "coupon": ""
+}
+2017-03-24 11:49:35  [ pool-1-thread-4:5873 ] - [ INFO ]  表达式: [GetExcelData("assortmentId")]开始解析...
+2017-03-24 11:49:35  [ pool-1-thread-4:5873 ] - [ INFO ]  表达式: [GetExcelData("insurantCertNo")]开始解析...
+2017-03-24 11:49:35  [ pool-1-thread-4:5874 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-24 11:49:35  [ pool-1-thread-4:5874 ] - [ INFO ]  表达式: [GetExcelData("productName")]开始解析...
+2017-03-24 11:49:35  [ pool-1-thread-4:5875 ] - [ INFO ]  表达式: [GetExcelData("assortmentId")]开始解析...
+2017-03-24 11:49:35  [ pool-1-thread-4:5875 ] - [ INFO ]  表达式: [GetExcelData("productId")]开始解析...
+2017-03-24 11:49:35  [ pool-1-thread-4:5876 ] - [ INFO ]  表达式: [GetExcelData("accountId")]开始解析...
+2017-03-24 11:49:37  [ pool-1-thread-4:7492 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("YYYYMMdd","-25/0/0"),"1")]开始解析...
+2017-03-24 11:49:37  [ pool-1-thread-4:7578 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","-25/0/0")]开始解析...
+2017-03-24 11:49:37  [ pool-1-thread-4:7580 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","-24/0/0")]开始解析...
+2017-03-24 11:49:37  [ pool-1-thread-4:7581 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","0")]开始解析...
+2017-03-24 11:49:37  [ pool-1-thread-4:7583 ] - [ INFO ]  表达式: [RDate("YYYY-MM-dd","1/0/-1")]开始解析...
+2017-03-24 11:49:41  [ pool-1-thread-4:11830 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("YYYYMMdd","-24/0/0"),"2")]开始解析...
+2017-03-24 11:49:41  [ pool-1-thread-4:11852 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+{
+  "applicant": [
+    {
+      "applicantCertType": "I",
+      "applicantName": "测试投保人",
+      "applicantCertNo": "510725199203244790",
+      "applicantBirthday": "1992-03-24",
+      "applicantGender": "M",
+      "applicantEmail": "1607217918@qq.com"
+    }
+  ],
+  "insured": [
+    {
+      "isOpen": "open",
+      "ensurePlan": "51252513",
+      "amount": "0",
+      "insurantCertType": "I",
+      "insurance": "Y",
+      "relation": "2",
+      "insurantName": "测试配偶",
+      "insurantCertNo": "130205199303245949",
+      "insurantBirthday": "1993-03-24",
+      "insurantGender": "F"
+    }
+  ],
+  "insurance": [
+    {
+      "productName": "尊享e生医疗保险",
+      "expires": "1年",
+      "effectiveDate": "2017-03-24",
+      "expiryDate": "2018-03-23",
+      "person": "法定",
+      "quantity": 1
+    }
+  ],
+  "communication": [
+    {
+      "applicantMobile": "15618757067",
+      "smsCode": "888888"
+    }
+  ],
+  "assortmentId": "51252513",
+  "productId": "1000173",
+  "accountId": "50002490005",
+  "coupon": ""
+}
+2017-03-24 11:49:53  [ pool-1-thread-4:24141 ] - [ INFO ]  接口访问地址: http://test.iyunbao.com/open/qrcode/normalPolicyAjax/normalAppPolicyInter.json
+2017-03-24 11:50:00  [ pool-1-thread-4:30615 ] - [ INFO ]  bizcontent: {"message":"承保成功","result":{"insurantOldPremium":[219],"insurantPremium":[219.0],"isDoubleElevenActivityStart":false,"oldPremium":219,"premium":219,"returnUrl":"https://cashieruat.zhongan.com/za-cashier-web/gateway.do?amt=219.00&auto_test=true&merchant_code=1604000601&notify_url=http://10.139.107.1:3080/open/broker/system/payResultCheck/checkZAPayResult.do&out_trade_no=IYB201703241149546568&pay_channel=alipay^wxpay^unionpay&request_charset=UTF-8&return_url=http://10.139.107.1:3080/open/broker/system/payResultCheck/checkZAPayResult1.do&show_result_page=N&sign=e7e610dc0b14639040cb08f168261483&sign_type=MD5&src_type=mobile&subject=尊享e生医疗保险","workId":"50006665006"},"code":"0"}
+2017-03-24 11:50:18  [ pool-1-thread-4:49350 ] - [ INFO ]  表达式: [HttpGet(ResponseDepend("iyb-001","returnUrl"),"utf-8")]开始解析...
+2017-03-24 11:50:46  [ pool-1-thread-4:77166 ] - [ ERROR ]  clientExecuteError:{}
+java.lang.IllegalArgumentException: Illegal character in query at index 251: https://cashieruat.zhongan.com/za-cashier-web/gateway.do?amt=219.00&auto_test=true&merchant_code=1604000601&notify_url=http://10.139.107.1:3080/open/broker/system/payResultCheck/checkZAPayResult.do&out_trade_no=IYB201703241149546568&pay_channel=alipay^wxpay^unionpay&request_charset=UTF-8&return_url=http://10.139.107.1:3080/open/broker/system/payResultCheck/checkZAPayResult1.do&show_result_page=N&sign=e7e610dc0b14639040cb08f168261483&sign_type=MD5&src_type=mobile&subject=尊享e生医疗保险
+	at java.net.URI.create(URI.java:852)
+	at org.apache.http.client.methods.HttpPost.<init>(HttpPost.java:76)
+	at com.zhongan.qa.utils.HttpResponseUtils.getResponseByKeyValueParameter(HttpResponseUtils.java:63)
+	at com.zhongan.qa.utils.HttpClientUtils.testWithKeyValue(HttpClientUtils.java:34)
+	at com.za.qa.keywords.KeywordDefinition$HttpRequest.call(KeywordDefinition.java:902)
+	at Script_1490327418892_6.execute0(Unknown Source)
+	at com.googlecode.aviator.ClassExpression.execute(ClassExpression.java:53)
+	at com.googlecode.aviator.AviatorEvaluator.execute(AviatorEvaluator.java:550)
+	at com.googlecode.aviator.AviatorEvaluator.execute(AviatorEvaluator.java:566)
+	at com.googlecode.aviator.AviatorEvaluator.execute(AviatorEvaluator.java:587)
+	at com.za.qa.keywords.ExpressionEngine.execute(ExpressionEngine.java:39)
+	at com.za.qa.analyze.DataAnalyze.analyzeCurrent(DataAnalyze.java:316)
+	at com.za.qa.verify.ResponseVerify.check(ResponseVerify.java:615)
+	at com.za.qa.dto.CaseDTO.getCaseReportDTO(CaseDTO.java:165)
+	at com.za.qa.services.ClientServices.run(ClientServices.java:59)
+	at com.za.qa.services.ApiCallable.call(ApiCallable.java:39)
+	at com.za.qa.services.ApiCallable.call(ApiCallable.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.URISyntaxException: Illegal character in query at index 251: https://cashieruat.zhongan.com/za-cashier-web/gateway.do?amt=219.00&auto_test=true&merchant_code=1604000601&notify_url=http://10.139.107.1:3080/open/broker/system/payResultCheck/checkZAPayResult.do&out_trade_no=IYB201703241149546568&pay_channel=alipay^wxpay^unionpay&request_charset=UTF-8&return_url=http://10.139.107.1:3080/open/broker/system/payResultCheck/checkZAPayResult1.do&show_result_page=N&sign=e7e610dc0b14639040cb08f168261483&sign_type=MD5&src_type=mobile&subject=尊享e生医疗保险
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3111)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URI.create(URI.java:850)
+	... 20 more
+2017-03-24 11:51:04  [ pool-1-thread-4:95253 ] - [ ERROR ]  getReponseError:{}
+java.lang.NullPointerException
+	at com.zhongan.qa.utils.HttpResponseUtils.getResponseContent(HttpResponseUtils.java:294)
+	at com.za.qa.keywords.KeywordDefinition$HttpRequest.call(KeywordDefinition.java:903)
+	at Script_1490327418892_6.execute0(Unknown Source)
+	at com.googlecode.aviator.ClassExpression.execute(ClassExpression.java:53)
+	at com.googlecode.aviator.AviatorEvaluator.execute(AviatorEvaluator.java:550)
+	at com.googlecode.aviator.AviatorEvaluator.execute(AviatorEvaluator.java:566)
+	at com.googlecode.aviator.AviatorEvaluator.execute(AviatorEvaluator.java:587)
+	at com.za.qa.keywords.ExpressionEngine.execute(ExpressionEngine.java:39)
+	at com.za.qa.analyze.DataAnalyze.analyzeCurrent(DataAnalyze.java:316)
+	at com.za.qa.verify.ResponseVerify.check(ResponseVerify.java:615)
+	at com.za.qa.dto.CaseDTO.getCaseReportDTO(CaseDTO.java:165)
+	at com.za.qa.services.ClientServices.run(ClientServices.java:59)
+	at com.za.qa.services.ApiCallable.call(ApiCallable.java:39)
+	at com.za.qa.services.ApiCallable.call(ApiCallable.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-03-24 11:51:14  [ pool-1-thread-4:105124 ] - [ INFO ]  表达式: [getTestValue("out_trade_no",ResponseDepend("iyb-001","returnUrl"))]开始解析...
+2017-03-24 11:51:14  [ pool-1-thread-4:105137 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:iyb-001---------
+2017-03-24 11:51:15  [ main:106114 ] - [ INFO ]  ----程序结束运行----，程序运行时间【109383毫秒】

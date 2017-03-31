@@ -1,0 +1,1720 @@
+2017-03-28 15:44:09  [ main:0 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 限购校验
+2017-03-28 15:44:09  [ main:4 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 投保份数校验
+2017-03-28 15:44:09  [ main:5 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 与投保人关系非空
+2017-03-28 15:44:09  [ main:6 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 渠道订单号非空
+2017-03-28 15:44:09  [ main:26 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 生效日期，投保次日零时到5天（含）内日期生效
+2017-03-28 15:44:09  [ main:27 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 保险起期可为空，默认赋值
+2017-03-28 15:44:09  [ main:28 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 投保人年龄校验
+2017-03-28 15:44:09  [ main:31 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 被保人年龄校验
+2017-03-28 15:44:09  [ main:31 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 见费出单
+2017-03-28 15:44:09  [ main:33 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 产品组合非空
+2017-03-28 15:44:09  [ main:74 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 营销活动非空
+2017-03-28 15:44:09  [ pool-1-thread-3:104 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 与投保人关系非空
+2017-03-28 15:44:09  [ pool-1-thread-10:110 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 产品组合非空
+2017-03-28 15:44:09  [ pool-1-thread-2:111 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 投保份数校验
+2017-03-28 15:44:09  [ pool-1-thread-6:110 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 保险起期可为空，默认赋值
+2017-03-28 15:44:09  [ pool-1-thread-9:111 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 见费出单
+2017-03-28 15:44:09  [ pool-1-thread-5:111 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 生效日期，投保次日零时到5天（含）内日期生效
+2017-03-28 15:44:09  [ pool-1-thread-8:114 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 被保人年龄校验
+2017-03-28 15:44:09  [ pool-1-thread-4:115 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 渠道订单号非空
+2017-03-28 15:44:09  [ pool-1-thread-7:111 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 投保人年龄校验
+2017-03-28 15:44:09  [ pool-1-thread-11:148 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 营销活动非空
+2017-03-28 15:44:09  [ pool-1-thread-1:155 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 限购校验
+2017-03-28 15:44:09  [ pool-1-thread-3:183 ] - [ INFO ]  ---------当前用例执行开始，用例编号:与投保人关系非空,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-11:184 ] - [ INFO ]  ---------当前用例执行开始，用例编号:营销活动非空,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-6:185 ] - [ INFO ]  ---------当前用例执行开始，用例编号:保险起期可为空,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-7:186 ] - [ INFO ]  ---------当前用例执行开始，用例编号:大于18周岁（小于18周岁禁保）,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-10:187 ] - [ INFO ]  ---------当前用例执行开始，用例编号:产品组合非空,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-5:183 ] - [ INFO ]  ---------当前用例执行开始，用例编号:早于投保次日零时，禁保,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-9:196 ] - [ INFO ]  ---------当前用例执行开始，用例编号:核保,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-4:186 ] - [ INFO ]  ---------当前用例执行开始，用例编号:渠道订单号非空,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-8:185 ] - [ INFO ]  ---------当前用例执行开始，用例编号:30天-70周岁(小于30天禁保,与保单生效日比较),接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-1:197 ] - [ INFO ]  ---------当前用例执行开始，用例编号:核保,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-2:198 ] - [ INFO ]  ---------当前用例执行开始，用例编号:份数限保一份（大于一份）,接口类型: OpenAPI
+2017-03-28 15:44:09  [ pool-1-thread-6:203 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-1:203 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-7:203 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-2:205 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-3:203 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-8:205 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-9:204 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-10:204 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-5:204 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-4:204 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:09  [ pool-1-thread-11:204 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-6:405 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:406 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:407 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:408 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:413 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:413 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:414 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:414 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:414 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:415 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:416 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:416 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:417 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:417 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:418 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:418 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:419 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:419 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:419 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:420 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:420 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:421 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:421 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:421 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:422 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:422 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:422 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:423 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:423 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:424 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:425 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:425 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:425 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:426 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:426 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:426 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:427 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:428 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:413 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:441 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:441 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:441 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:460 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:461 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:461 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:463 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:466 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:466 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:467 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:467 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:469 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:469 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:469 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:469 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:470 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:470 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:470 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:471 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:417 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:473 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:473 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:474 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:474 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:474 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:474 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:475 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:475 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:475 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:475 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:476 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:476 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:476 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:476 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:477 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:477 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:416 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:484 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:486 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:487 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:488 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:488 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:489 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:489 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:490 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:491 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:492 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:492 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:492 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:493 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:493 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:493 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:493 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:494 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:494 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:494 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:495 ] - [ INFO ]  表达式: [Rreplace("0")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:416 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:502 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:503 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:503 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:504 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:504 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:504 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:507 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:507 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:507 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:507 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:508 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:508 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:508 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:509 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:509 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:509 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:510 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:510 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:510 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:510 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:415 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:512 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:512 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:512 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:415 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:515 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:516 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:519 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:519 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:520 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:520 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:521 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:521 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:521 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:522 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:522 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:522 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:522 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:501 ] - [ ERROR ]  表达式: Rreplace("0") 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-28 15:44:10  [ pool-1-thread-4:531 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:500 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:542 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:543 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/0")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:546 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:499 ] - [ INFO ]  表达式: [Rreplace("0")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:477 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:471 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:551 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:551 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:552 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:552 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:552 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:552 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:459 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:553 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:553 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:553 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:554 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:554 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:554 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:458 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:555 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:555 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:555 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:555 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:556 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:556 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:556 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:556 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:556 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:557 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:557 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:557 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:557 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:559 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:559 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:560 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:561 ] - [ INFO ]  表达式: [Rreplace("0")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:563 ] - [ ERROR ]  表达式: Rreplace("0") 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-28 15:44:10  [ pool-1-thread-6:563 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:442 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:567 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:567 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:567 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:567 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:568 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:568 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:568 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:568 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:568 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:569 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:569 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:569 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:569 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:569 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:570 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:570 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:570 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:570 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:570 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:570 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:572 ] - [ ERROR ]  表达式: Rreplace("0") 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-28 15:44:10  [ pool-1-thread-11:572 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:574 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:559 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:554 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:584 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:584 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:591 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:592 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:593 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:593 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:593 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:593 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:593 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:594 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:594 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:594 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:594 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:594 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:595 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:596 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/20")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:598 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","0/0/-8"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:554 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:553 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:633 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:633 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:638 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:638 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:553 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:530 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:515 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:645 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:633 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:645 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:646 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:646 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:646 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:646 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:646 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:647 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:647 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:647 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:647 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:647 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:648 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:649 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:625 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:625 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:625 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:572 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:664 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:648 ] - [ INFO ]  表达式: [Rreplace("0")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:667 ] - [ ERROR ]  表达式: Rreplace("0") 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-28 15:44:10  [ pool-1-thread-10:667 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:679 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:681 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:685 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:687 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:645 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:689 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:690 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:690 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:691 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:691 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:691 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:691 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:691 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:692 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:692 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:692 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:692 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:692 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:692 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:693 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:693 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:693 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:693 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:693 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:694 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:696 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:697 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:700 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:702 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:743 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:744 ] - [ INFO ]  表达式: [Rreplace("0")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:745 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:746 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:748 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-9:749 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "1214599127",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "410104199203280486",
+      "insurantCertiType": "I",
+      "insurantName": "被保人明冷之",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "411725199703289984",
+    "holderCertiType": "I",
+    "holderName": "投保人张又蓝",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-7:752 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-18/0/2"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:754 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:758 ] - [ ERROR ]  表达式: Rreplace("0") 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-28 15:44:10  [ pool-1-thread-3:759 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:760 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-10:760 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "1428641677",
+  "campaignId": "10002156338",
+  "packageId": "",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "500106199203286022",
+      "insurantCertiType": "I",
+      "insurantName": "被保人张俊英",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "130181199703284446",
+    "holderCertiType": "I",
+    "holderName": "投保人常艳卉",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-3:761 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-3:761 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "8855114659",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "610481199203282648",
+      "insurantCertiType": "I",
+      "insurantName": "被保人王永嘉",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "431300199703288441",
+    "holderCertiType": "I",
+    "holderName": "投保人王曜儿",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-2:762 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:753 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-6:766 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-2:764 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "9637963527",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "230200199203288863",
+      "insurantCertiType": "I",
+      "insurantName": "被保人王意蕴",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "2"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "430725199703285724",
+    "holderCertiType": "I",
+    "holderName": "投保人钟悠馨",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-1:752 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:752 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:770 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-1:771 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "2322252849",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "140829199203289448",
+      "insurantCertiType": "I",
+      "insurantName": "被保人西门语冰",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "230109199703286129",
+    "holderCertiType": "I",
+    "holderName": "投保人蔚芷珊",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-8:752 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-8:773 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "3399342866",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170417000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "610829201703205485",
+      "insurantCertiType": "I",
+      "insurantName": "被保人张婉清",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "231224199703282742",
+    "holderCertiType": "I",
+    "holderName": "投保人宣从筠",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-6:767 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "6137355334",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "450800199203280881",
+      "insurantCertiType": "I",
+      "insurantName": "被保人淳于忆枫",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "450902199703283286",
+    "holderCertiType": "I",
+    "holderName": "投保人千馨蓉",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-7:763 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-7:778 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "3635763319",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "131123199203286469",
+      "insurantCertiType": "I",
+      "insurantName": "被保人张慧英",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "140211199903304163",
+    "holderCertiType": "I",
+    "holderName": "投保人紫水冬",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-11:758 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:758 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:788 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-4:788 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "150304199203286420",
+      "insurantCertiType": "I",
+      "insurantName": "被保人尹晗玥",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "341022199703288281",
+    "holderCertiType": "I",
+    "holderName": "投保人张半青",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-5:779 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-5:790 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "6914526646",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170328000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "420703199203281209",
+      "insurantCertiType": "I",
+      "insurantName": "被保人律骊婧",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "130302199703286869",
+    "holderCertiType": "I",
+    "holderName": "投保人危代芹",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-11:794 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:10  [ pool-1-thread-11:795 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "1239263495",
+  "campaignId": "",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "420902199203286346",
+      "insurantCertiType": "I",
+      "insurantName": "被保人张斌斌",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "440104199703283320",
+    "holderCertiType": "I",
+    "holderName": "投保人文晨濡",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:10  [ pool-1-thread-9:914 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"1214599127\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"410104199203280486\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人明冷之\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"411725199703289984\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人张又蓝\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-6:914 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"6137355334\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"450800199203280881\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人淳于忆枫\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"450902199703283286\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人千馨蓉\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-3:915 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"8855114659\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"610481199203282648\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人王永嘉\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"431300199703288441\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人王曜儿\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-4:916 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"150304199203286420\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人尹晗玥\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"341022199703288281\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人张半青\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-5:916 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"6914526646\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170328000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"420703199203281209\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人律骊婧\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"130302199703286869\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人危代芹\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-7:920 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"3635763319\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"131123199203286469\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人张慧英\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"140211199903304163\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人紫水冬\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-11:927 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"1239263495\",\n  \"campaignId\": \"\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"420902199203286346\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人张斌斌\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"440104199703283320\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人文晨濡\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-8:933 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"3399342866\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170417000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"610829201703205485\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人张婉清\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"231224199703282742\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人宣从筠\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-10:944 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"1428641677\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"500106199203286022\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人张俊英\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"130181199703284446\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人常艳卉\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-2:934 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"9637963527\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"230200199203288863\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人王意蕴\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"2\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"430725199703285724\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人钟悠馨\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:10  [ pool-1-thread-1:943 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"2322252849\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"140829199203289448\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人西门语冰\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"230109199703286129\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人蔚芷珊\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:12  [ pool-1-thread-11:2434 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"营销活动ID不能为空!\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-10:2438 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"产品组合ID不能为空！\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-4:2444 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"订单号insuredId不能为空!\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-5:2474 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"保险起期较验错误,不能早于规定日期!\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-7:2489 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"【投保人紫水冬】年龄不符合，必须大于18周岁，请重新输入!\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-8:2492 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"{\\\"1\\\":\\\"被保人年龄需在 30天至 70周岁!\\\"}\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-2:2578 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"{\\\"1\\\":\\\"本保险产品只能购买一份!\\\"}\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-7:2585 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:大于18周岁（小于18周岁禁保）---------
+2017-03-28 15:44:12  [ pool-1-thread-10:2585 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:产品组合非空---------
+2017-03-28 15:44:12  [ pool-1-thread-2:2586 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:份数限保一份（大于一份）---------
+2017-03-28 15:44:12  [ pool-1-thread-4:2586 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:渠道订单号非空---------
+2017-03-28 15:44:12  [ pool-1-thread-8:2586 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:30天-70周岁(小于30天禁保,与保单生效日比较)---------
+2017-03-28 15:44:12  [ pool-1-thread-2:2587 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 投保份数校验
+2017-03-28 15:44:12  [ pool-1-thread-2:2591 ] - [ INFO ]  ---------当前用例执行开始，用例编号:份数限保一份（非整数）,接口类型: OpenAPI
+2017-03-28 15:44:12  [ pool-1-thread-2:2593 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-2:2594 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2594 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2594 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2595 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2595 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2595 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2595 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2595 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2596 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2596 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2588 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 被保人年龄校验
+2017-03-28 15:44:12  [ pool-1-thread-8:2596 ] - [ INFO ]  ---------当前用例执行开始，用例编号:30天-70周岁(小于30天禁保),接口类型: OpenAPI
+2017-03-28 15:44:12  [ pool-1-thread-8:2596 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-11:2591 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:营销活动非空---------
+2017-03-28 15:44:12  [ pool-1-thread-8:2597 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2598 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2598 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2598 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2598 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2598 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2599 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2599 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2599 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2599 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2599 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2600 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2600 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2600 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2600 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2600 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2600 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2600 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2601 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2601 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2601 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2601 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-5:2591 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:早于投保次日零时，禁保---------
+2017-03-28 15:44:12  [ pool-1-thread-3:2590 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"{\\\"1\\\":\\\"投被保人关系不能为空！\\\"}\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-3:2604 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:与投保人关系非空---------
+2017-03-28 15:44:12  [ pool-1-thread-2:2596 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2605 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2605 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2605 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2606 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2606 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2606 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2606 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2606 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2607 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2607 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2607 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2607 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2609 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2610 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-25/0/0"),"2")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2612 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2614 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2616 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2617 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "1193134455",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "450221199203283387",
+      "insurantCertiType": "I",
+      "insurantName": "被保人邶浩皛",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "11.50"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "420700199703286461",
+    "holderCertiType": "I",
+    "holderName": "投保人首婉容",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-2:2617 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"1193134455\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"450221199203283387\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人邶浩皛\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"11.50\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"420700199703286461\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人首婉容\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:12  [ pool-1-thread-8:2627 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","0/0/-27"),"2")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2644 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2653 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2656 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2657 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "1835946134",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "371322201703013562",
+      "insurantCertiType": "I",
+      "insurantName": "被保人柳寒云",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "321324199703288009",
+    "holderCertiType": "I",
+    "holderName": "投保人王雅达",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-8:2657 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"1835946134\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"371322201703013562\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人柳寒云\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"321324199703288009\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人王雅达\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:12  [ pool-1-thread-1:2786 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1\",\"policyId\":\"11360487\",\"insuredId\":\"2322252849\",\"premium\":\"996.00\",\"packageName\":\"个人结直肠癌疾病保险\",\"msgInfo\":\"保单信息验证成功！\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-1:2789 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:核保---------
+2017-03-28 15:44:12  [ pool-1-thread-1:2789 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 限购校验
+2017-03-28 15:44:12  [ pool-1-thread-1:2789 ] - [ INFO ]  ---------当前用例执行开始，用例编号:出单,接口类型: OpenAPI
+2017-03-28 15:44:12  [ pool-1-thread-1:2789 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "campaignId": "$GetExcelData("campaignId")",
+  "payment": {
+    "insuredId": "$GetExcelData("insuredId")",
+    "policyId": "$GetExcelData("policyId")",
+    "zaTradeNo": "$GetExcelData("zaTradeNo")",
+    "tradeNo": "",
+    "payTime": "",
+    "paymentWay": "$GetExcelData("paymentWay")",
+    "payAccount": "",
+    "feeAccount": ""
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-1:2790 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-1:2790 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-1:2790 ] - [ INFO ]  表达式: [GetExcelData("policyId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-1:2791 ] - [ INFO ]  表达式: [GetExcelData("zaTradeNo")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-1:2791 ] - [ INFO ]  表达式: [GetExcelData("paymentWay")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-1:2791 ] - [ INFO ]  表达式: [PayloadDepend("核保","insuredId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-1:2795 ] - [ INFO ]  表达式: [ResponseDepend("核保","policyId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-1:2797 ] - [ INFO ]  表达式: [RPay("uat",PayloadDepend("核保","insuredId"),ResponseDepend("核保","premium"))]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-1:2801 ] - [ INFO ]  RPay("uat","uat",PayloadDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#核保","insuredId"),ResponseDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#核保","premium"))解析数据失败，解析下一关键字
+2017-03-28 15:44:12  [ pool-1-thread-1:2801 ] - [ ERROR ]  表达式: RPay("uat","uat",PayloadDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#核保","insuredId"),ResponseDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#核保","premium")) 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-28 15:44:12  [ pool-1-thread-1:2802 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "campaignId": "10002156338",
+  "payment": {
+    "insuredId": "2322252849",
+    "policyId": "11360487",
+    "zaTradeNo": "@RPay("uat",PayloadDepend("核保","insuredId"),ResponseDepend("核保","premium"))",
+    "tradeNo": "",
+    "payTime": "",
+    "paymentWay": "1",
+    "payAccount": "",
+    "feeAccount": ""
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-1:2802 ] - [ INFO ]  当前用例:infoJson={
+  "campaignId": "10002156338",
+  "payment": {
+    "insuredId": "2322252849",
+    "policyId": "11360487",
+    "zaTradeNo": "@RPay("uat",PayloadDepend("核保","insuredId"),ResponseDepend("核保","premium"))",
+    "tradeNo": "",
+    "payTime": "",
+    "paymentWay": "1",
+    "payAccount": "",
+    "feeAccount": ""
+  }
+}|入参解析失败,忽略,开始执行下一条
+2017-03-28 15:44:12  [ pool-1-thread-1:2803 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:出单---------
+2017-03-28 15:44:12  [ pool-1-thread-1:2803 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 限购校验
+2017-03-28 15:44:12  [ pool-1-thread-1:2808 ] - [ INFO ]  ---------当前用例执行开始，用例编号:同一被保人再次投保,接口类型: OpenAPI
+2017-03-28 15:44:12  [ pool-1-thread-1:2809 ] - [ INFO ]  表达式: [RSleep("15")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-9:2816 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1\",\"policyId\":\"10705487\",\"insuredId\":\"1214599127\",\"premium\":\"996.00\",\"packageName\":\"个人结直肠癌疾病保险\",\"msgInfo\":\"保单信息验证成功！\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-9:2821 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:核保---------
+2017-03-28 15:44:12  [ pool-1-thread-9:2821 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 见费出单
+2017-03-28 15:44:12  [ pool-1-thread-9:2821 ] - [ INFO ]  ---------当前用例执行开始，用例编号:出单,接口类型: OpenAPI
+2017-03-28 15:44:12  [ pool-1-thread-9:2821 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "campaignId": "$GetExcelData("campaignId")",
+  "payment": {
+    "insuredId": "$GetExcelData("insuredId")",
+    "policyId": "$GetExcelData("policyId")",
+    "zaTradeNo": "$GetExcelData("zaTradeNo")",
+    "tradeNo": "",
+    "payTime": "",
+    "paymentWay": "$GetExcelData("paymentWay")",
+    "payAccount": "",
+    "feeAccount": ""
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-9:2822 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-9:2822 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-9:2822 ] - [ INFO ]  表达式: [GetExcelData("policyId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-9:2822 ] - [ INFO ]  表达式: [GetExcelData("zaTradeNo")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-9:2822 ] - [ INFO ]  表达式: [GetExcelData("paymentWay")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-9:2823 ] - [ INFO ]  表达式: [PayloadDepend("核保","insuredId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-9:2825 ] - [ INFO ]  表达式: [ResponseDepend("核保","policyId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-2:2843 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"{\\\"1\\\":\\\"参数格式非整数值!\\\"}\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-2:2845 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:份数限保一份（非整数）---------
+2017-03-28 15:44:12  [ pool-1-thread-6:2838 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1\",\"policyId\":\"11360488\",\"insuredId\":\"6137355334\",\"premium\":\"996.00\",\"packageName\":\"个人结直肠癌疾病保险\",\"msgInfo\":\"保单信息验证成功！\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-6:2847 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:保险起期可为空---------
+2017-03-28 15:44:12  [ pool-1-thread-9:2845 ] - [ INFO ]  表达式: [RPay("uat",PayloadDepend("核保","insuredId"),ResponseDepend("核保","premium"))]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-9:2855 ] - [ INFO ]  RPay("uat","uat",PayloadDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#见费出单#核保","insuredId"),ResponseDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#见费出单#核保","premium"))解析数据失败，解析下一关键字
+2017-03-28 15:44:12  [ pool-1-thread-9:2855 ] - [ ERROR ]  表达式: RPay("uat","uat",PayloadDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#见费出单#核保","insuredId"),ResponseDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#见费出单#核保","premium")) 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-28 15:44:12  [ pool-1-thread-9:2856 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "campaignId": "10002156338",
+  "payment": {
+    "insuredId": "1214599127",
+    "policyId": "10705487",
+    "zaTradeNo": "@RPay("uat",PayloadDepend("核保","insuredId"),ResponseDepend("核保","premium"))",
+    "tradeNo": "",
+    "payTime": "",
+    "paymentWay": "1",
+    "payAccount": "",
+    "feeAccount": ""
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-9:2856 ] - [ INFO ]  当前用例:infoJson={
+  "campaignId": "10002156338",
+  "payment": {
+    "insuredId": "1214599127",
+    "policyId": "10705487",
+    "zaTradeNo": "@RPay("uat",PayloadDepend("核保","insuredId"),ResponseDepend("核保","premium"))",
+    "tradeNo": "",
+    "payTime": "",
+    "paymentWay": "1",
+    "payAccount": "",
+    "feeAccount": ""
+  }
+}|入参解析失败,忽略,开始执行下一条
+2017-03-28 15:44:12  [ pool-1-thread-9:2856 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:出单---------
+2017-03-28 15:44:12  [ pool-1-thread-8:2862 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"{\\\"1\\\":\\\"被保人年龄需在 30天至 70周岁!\\\"}\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-8:2864 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:30天-70周岁(小于30天禁保)---------
+2017-03-28 15:44:12  [ pool-1-thread-8:2864 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 被保人年龄校验
+2017-03-28 15:44:12  [ pool-1-thread-8:2864 ] - [ INFO ]  ---------当前用例执行开始，用例编号:30天-70周岁(大于70岁禁保),接口类型: OpenAPI
+2017-03-28 15:44:12  [ pool-1-thread-8:2864 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-8:2865 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2865 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2865 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2865 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2865 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2865 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2865 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2866 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2866 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2866 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2866 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2866 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2866 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2867 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2867 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2867 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2870 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2870 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2870 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2870 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2870 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2871 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2874 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2876 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-71/0/0"),"2")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2879 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2881 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2883 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:12  [ pool-1-thread-8:2883 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "9669865967",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "430682194603280765",
+      "insurantCertiType": "I",
+      "insurantName": "被保人绍晓兰",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "210211199703286202",
+    "holderCertiType": "I",
+    "holderName": "投保人张淑贞",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:12  [ pool-1-thread-8:2884 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"9669865967\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"430682194603280765\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人绍晓兰\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"210211199703286202\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人张淑贞\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:12  [ pool-1-thread-8:3120 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1001\",\"msgInfo\":\"{\\\"1\\\":\\\"【被保人绍晓兰】年龄不符合，必须小于70周岁，请重新输入!\\\"}\"}"}
+2017-03-28 15:44:12  [ pool-1-thread-8:3149 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:30天-70周岁(大于70岁禁保)---------
+2017-03-28 15:44:27  [ pool-1-thread-1:17812 ] - [ INFO ]  前置处理ProProcessor解析：
+已等待15秒;
+
+2017-03-28 15:44:27  [ pool-1-thread-1:17812 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:27  [ pool-1-thread-1:17812 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17813 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17813 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17813 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17813 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17813 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17813 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17814 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17814 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17814 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17814 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17814 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17814 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17814 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17814 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17815 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17815 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17815 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17815 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17815 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17815 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17816 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17817 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17818 ] - [ INFO ]  表达式: [PayloadDepend("核保","insurantCertiNo")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17831 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17832 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17836 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:27  [ pool-1-thread-1:17836 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "1183975351",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "140829199203289448",
+      "insurantCertiType": "I",
+      "insurantName": "被保人张清馨",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "210800199703281122",
+    "holderCertiType": "I",
+    "holderName": "投保人张兰泽",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:27  [ pool-1-thread-1:17837 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"1183975351\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"140829199203289448\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人张清馨\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"210800199703281122\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人张兰泽\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:28  [ pool-1-thread-1:18522 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1\",\"policyId\":\"11360487\",\"insuredId\":\"1183975351\",\"premium\":\"996.00\",\"packageName\":\"个人结直肠癌疾病保险\",\"msgInfo\":\"保单信息验证成功！\"}"}
+2017-03-28 15:44:28  [ pool-1-thread-1:18524 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:同一被保人再次投保---------
+2017-03-28 15:44:28  [ pool-1-thread-1:18524 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 限购校验
+2017-03-28 15:44:28  [ pool-1-thread-1:18524 ] - [ INFO ]  ---------当前用例执行开始，用例编号:批退,接口类型: OpenAPI
+2017-03-28 15:44:28  [ pool-1-thread-1:18524 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "campaignId": "$GetExcelData("campaignId")",
+  "policyNo": "$GetExcelData("policyNo")"
+}|
+2017-03-28 15:44:28  [ pool-1-thread-1:18524 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18524 ] - [ INFO ]  表达式: [GetExcelData("policyNo")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18525 ] - [ INFO ]  表达式: [ResponseDepend("出单","policyNo")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18526 ] - [ ERROR ]  解析依赖函数‘ResponseDepend’未能找到Case:D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#出单 对应的数据
+2017-03-28 15:44:28  [ pool-1-thread-1:18526 ] - [ ERROR ]  表达式: ResponseDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#出单","policyNo") 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-28 15:44:28  [ pool-1-thread-1:18527 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "campaignId": "10002156338",
+  "policyNo": "@ResponseDepend("出单","policyNo")"
+}|
+2017-03-28 15:44:28  [ pool-1-thread-1:18527 ] - [ INFO ]  当前用例:infoJson={
+  "campaignId": "10002156338",
+  "policyNo": "@ResponseDepend("出单","policyNo")"
+}|入参解析失败,忽略,开始执行下一条
+2017-03-28 15:44:28  [ pool-1-thread-1:18527 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:批退---------
+2017-03-28 15:44:28  [ pool-1-thread-1:18527 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 限购校验
+2017-03-28 15:44:28  [ pool-1-thread-1:18527 ] - [ INFO ]  ---------当前用例执行开始，用例编号:批退后再核保,接口类型: OpenAPI
+2017-03-28 15:44:28  [ pool-1-thread-1:18527 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "insuredId": "$GetExcelData("insuredId")",
+  "campaignId": "$GetExcelData("campaignId")",
+  "packageId": "$GetExcelData("packageId")",
+  "effectiveDate": "$GetExcelData("effectiveDate")",
+  "insurantList": [
+    {
+      "amount": "$GetExcelData("sumInsured")",
+      "insurantGender": "$GetExcelData("insurantGender")",
+      "insurantBirthday": "$GetExcelData("insurantBirthday")",
+      "insurantCertiNo": "$GetExcelData("insurantCertiNo")",
+      "insurantCertiType": "$GetExcelData("insurantCertiType")",
+      "insurantName": "$GetExcelData("insurantName")",
+      "insurantPhone": "$GetExcelData("insurantPhone")",
+      "insuredRelaToHolder": "$GetExcelData("insuredRelaToHolder")",
+      "premium": "$GetExcelData("sumPremium")",
+      "insurantUnit": "$GetExcelData("insurantUnit")"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "$GetExcelData("holderGender")",
+    "holderBirthday": "$GetExcelData("holderBirthday")",
+    "holderCertiNo": "$GetExcelData("holderCertiNo")",
+    "holderCertiType": "$GetExcelData("holderCertiType")",
+    "holderName": "$GetExcelData("holderName")",
+    "holderEmail": "$GetExcelData("holderEmail")",
+    "holderPhone": "$GetExcelData("holderPhone")"
+  }
+}|
+2017-03-28 15:44:28  [ pool-1-thread-1:18528 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18528 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18528 ] - [ INFO ]  表达式: [GetExcelData("packageId")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18528 ] - [ INFO ]  表达式: [GetExcelData("effectiveDate")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18529 ] - [ INFO ]  表达式: [GetExcelData("sumInsured")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18529 ] - [ INFO ]  表达式: [GetExcelData("insurantGender")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18529 ] - [ INFO ]  表达式: [GetExcelData("insurantBirthday")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18529 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiNo")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18529 ] - [ INFO ]  表达式: [GetExcelData("insurantCertiType")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18529 ] - [ INFO ]  表达式: [GetExcelData("insurantName")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18530 ] - [ INFO ]  表达式: [GetExcelData("insurantPhone")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18530 ] - [ INFO ]  表达式: [GetExcelData("insuredRelaToHolder")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18530 ] - [ INFO ]  表达式: [GetExcelData("sumPremium")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18530 ] - [ INFO ]  表达式: [GetExcelData("insurantUnit")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18530 ] - [ INFO ]  表达式: [GetExcelData("holderGender")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18530 ] - [ INFO ]  表达式: [GetExcelData("holderBirthday")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18530 ] - [ INFO ]  表达式: [GetExcelData("holderCertiNo")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18531 ] - [ INFO ]  表达式: [GetExcelData("holderCertiType")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18531 ] - [ INFO ]  表达式: [GetExcelData("holderName")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18531 ] - [ INFO ]  表达式: [GetExcelData("holderEmail")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18531 ] - [ INFO ]  表达式: [GetExcelData("holderPhone")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18531 ] - [ INFO ]  表达式: [RNum("10")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18532 ] - [ INFO ]  表达式: [RDate("yyyyMMdd","0/0/1")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18534 ] - [ INFO ]  表达式: [PayloadDepend("核保","insurantCertiNo")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18538 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18540 ] - [ INFO ]  表达式: [RIdWithBirthday(RDate("yyyyMMdd","-20/0/0"),"2")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18542 ] - [ INFO ]  表达式: [RName()]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:18543 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "insuredId": "7751722922",
+  "campaignId": "10002156338",
+  "packageId": "51030103",
+  "effectiveDate": "20170329000000",
+  "insurantList": [
+    {
+      "amount": "",
+      "insurantGender": "",
+      "insurantBirthday": "",
+      "insurantCertiNo": "140829199203289448",
+      "insurantCertiType": "I",
+      "insurantName": "被保人张华池",
+      "insurantPhone": "18317183693",
+      "insuredRelaToHolder": "3",
+      "premium": "996.00",
+      "insurantUnit": "1"
+    }
+  ],
+  "policyHolder": {
+    "holderGender": "",
+    "holderBirthday": "",
+    "holderCertiNo": "411222199703288088",
+    "holderCertiType": "I",
+    "holderName": "投保人王博实",
+    "holderEmail": "yangxiaoling@zhongan.com",
+    "holderPhone": "18317183693"
+  }
+}|
+2017-03-28 15:44:28  [ pool-1-thread-1:18543 ] - [ INFO ]  Excel参数JSON: {"infoJson":"{\n  \"insuredId\": \"7751722922\",\n  \"campaignId\": \"10002156338\",\n  \"packageId\": \"51030103\",\n  \"effectiveDate\": \"20170329000000\",\n  \"insurantList\": [\n    {\n      \"amount\": \"\",\n      \"insurantGender\": \"\",\n      \"insurantBirthday\": \"\",\n      \"insurantCertiNo\": \"140829199203289448\",\n      \"insurantCertiType\": \"I\",\n      \"insurantName\": \"被保人张华池\",\n      \"insurantPhone\": \"18317183693\",\n      \"insuredRelaToHolder\": \"3\",\n      \"premium\": \"996.00\",\n      \"insurantUnit\": \"1\"\n    }\n  ],\n  \"policyHolder\": {\n    \"holderGender\": \"\",\n    \"holderBirthday\": \"\",\n    \"holderCertiNo\": \"411222199703288088\",\n    \"holderCertiType\": \"I\",\n    \"holderName\": \"投保人王博实\",\n    \"holderEmail\": \"yangxiaoling@zhongan.com\",\n    \"holderPhone\": \"18317183693\"\n  }\n}"}
+2017-03-28 15:44:28  [ pool-1-thread-1:19210 ] - [ INFO ]  bizcontent: {"param":"{\"msgCode\":\"1\",\"policyId\":\"11360487\",\"insuredId\":\"7751722922\",\"premium\":\"996.00\",\"packageName\":\"个人结直肠癌疾病保险\",\"msgInfo\":\"保单信息验证成功！\"}"}
+2017-03-28 15:44:28  [ pool-1-thread-1:19211 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:批退后再核保---------
+2017-03-28 15:44:28  [ pool-1-thread-1:19211 ] - [ ERROR ]  [用例集开关]: D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx用例集开关 未包含 限购校验
+2017-03-28 15:44:28  [ pool-1-thread-1:19211 ] - [ INFO ]  ---------当前用例执行开始，用例编号:批退后再出单,接口类型: OpenAPI
+2017-03-28 15:44:28  [ pool-1-thread-1:19211 ] - [ INFO ]  
+表达式引擎解析前的参数: 
+infoJson={
+  "campaignId": "$GetExcelData("campaignId")",
+  "payment": {
+    "insuredId": "$GetExcelData("insuredId")",
+    "policyId": "$GetExcelData("policyId")",
+    "zaTradeNo": "$GetExcelData("zaTradeNo")",
+    "tradeNo": "",
+    "payTime": "",
+    "paymentWay": "$GetExcelData("paymentWay")",
+    "payAccount": "",
+    "feeAccount": ""
+  }
+}|
+2017-03-28 15:44:28  [ pool-1-thread-1:19220 ] - [ INFO ]  表达式: [GetExcelData("campaignId")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:19221 ] - [ INFO ]  表达式: [GetExcelData("insuredId")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:19221 ] - [ INFO ]  表达式: [GetExcelData("policyId")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:19222 ] - [ INFO ]  表达式: [GetExcelData("zaTradeNo")]开始解析...
+2017-03-28 15:44:28  [ pool-1-thread-1:19222 ] - [ INFO ]  表达式: [GetExcelData("paymentWay")]开始解析...
+2017-03-28 15:44:29  [ pool-1-thread-1:19234 ] - [ INFO ]  表达式: [PayloadDepend("批退后再核保","insuredId")]开始解析...
+2017-03-28 15:44:29  [ pool-1-thread-1:19238 ] - [ INFO ]  表达式: [ResponseDepend("批退后再核保","policyId")]开始解析...
+2017-03-28 15:44:29  [ pool-1-thread-1:19250 ] - [ INFO ]  表达式: [RPay("uat",PayloadDepend("批退后再核保","insuredId"),ResponseDepend("批退后再核保","premium"))]开始解析...
+2017-03-28 15:44:29  [ pool-1-thread-1:19273 ] - [ INFO ]  RPay("uat","uat",PayloadDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#批退后再核保","insuredId"),ResponseDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#批退后再核保","premium"))解析数据失败，解析下一关键字
+2017-03-28 15:44:29  [ pool-1-thread-1:19273 ] - [ ERROR ]  表达式: RPay("uat","uat",PayloadDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#批退后再核保","insuredId"),ResponseDepend("D:\workspace\TestCase\测试\健康险_鼎力_个人结直肠癌.xlsx#限购校验#批退后再核保","premium")) 解析获取到的值为空值,放弃执行后续步骤,请检查
+2017-03-28 15:44:29  [ pool-1-thread-1:19274 ] - [ INFO ]  
+表达式引擎解析后的参数: 
+infoJson={
+  "campaignId": "10002156338",
+  "payment": {
+    "insuredId": "7751722922",
+    "policyId": "11360487",
+    "zaTradeNo": "@RPay("uat",PayloadDepend("批退后再核保","insuredId"),ResponseDepend("批退后再核保","premium"))",
+    "tradeNo": "",
+    "payTime": "",
+    "paymentWay": "1",
+    "payAccount": "",
+    "feeAccount": ""
+  }
+}|
+2017-03-28 15:44:29  [ pool-1-thread-1:19274 ] - [ INFO ]  当前用例:infoJson={
+  "campaignId": "10002156338",
+  "payment": {
+    "insuredId": "7751722922",
+    "policyId": "11360487",
+    "zaTradeNo": "@RPay("uat",PayloadDepend("批退后再核保","insuredId"),ResponseDepend("批退后再核保","premium"))",
+    "tradeNo": "",
+    "payTime": "",
+    "paymentWay": "1",
+    "payAccount": "",
+    "feeAccount": ""
+  }
+}|入参解析失败,忽略,开始执行下一条
+2017-03-28 15:44:29  [ pool-1-thread-1:19274 ] - [ INFO ]  ---------当前用例执行完毕，用例编号:批退后再出单---------
+2017-03-28 15:44:31  [ main:21306 ] - [ INFO ]  ----程序结束运行----，程序运行时间【27179毫秒】
